@@ -1,0 +1,1094 @@
+[
+    {
+        "name": "Acetaminophen",
+        "description": "Analgesic and antipyretic",
+        "conditions": "Pain, fever",
+        "abbreviation": "ACET"
+    },
+    {
+        "name": "Alendronate (Fosamax)",
+        "description": "Bisphosphonate.",
+        "conditions": "Osteoporosis, Paget's disease of bone",
+        "abbreviation": "ALEN"
+    },
+    {
+        "name": "Aloe Vera",
+        "description": "Succulent plant",
+        "conditions": "Burns, skin conditions",
+        "abbreviation": "ALOE"
+    },
+    {
+        "name": "Alprazolam",
+        "description": "Benzodiazepine",
+        "conditions": "Anxiety, panic disorder",
+        "abbreviation": "ALPR"
+    },
+    {
+        "name": "Amlodipine",
+        "description": "Calcium channel blocker",
+        "conditions": "Hypertension, angina",
+        "abbreviation": "AMLO"
+    },
+    {
+        "name": "Amoxicillin",
+        "description": "Antibiotic",
+        "conditions": "Bacterial infections",
+        "abbreviation": "AMOX"
+    },
+    {
+        "name": "Amoxicillin/Clavulanate",
+        "description": "Beta-lactam antibiotic and beta-lactamase inhibitor",
+        "conditions": "Bacterial infections",
+        "abbreviation": "AMCL"
+    },
+    {
+        "name": "Aripiprazole",
+        "description": "Atypical antipsychotic",
+        "conditions": "Schizophrenia, bipolar disorder, depression adjunct",
+        "abbreviation": "ARIPI"
+    },
+    {
+        "name": "Ashwagandha",
+        "description": "Adaptogenic herb",
+        "conditions": "Stress, fatigue, concentration",
+        "abbreviation": "ASHW"
+    },
+    {
+        "name": "Aspirin",
+        "description": "NSAID, antiplatelet",
+        "conditions": "Pain, inflammation, fever, cardiovascular protection",
+        "abbreviation": "ASPR"
+    },
+    {
+        "name": "Atorvastatin",
+        "description": "Statin for cholesterol",
+        "conditions": "High cholesterol, atherosclerosis",
+        "abbreviation": "ATOR"
+    },
+    {
+        "name": "Azithromycin",
+        "description": "Macrolide antibiotic",
+        "conditions": "Respiratory infections, STIs",
+        "abbreviation": "AZIT"
+    },
+    {
+        "name": "Basil (Holy Basil)",
+        "description": "Aromatic herb",
+        "conditions": "Stress, antioxidant, anti-inflammatory",
+        "abbreviation": "BASI"
+    },
+    {
+        "name": "Bevacizumab",
+        "description": "Monoclonal antibody",
+        "conditions": "Various solid tumors",
+        "abbreviation": "BEVA"
+    },
+    {
+        "name": "Bilberry",
+        "description": "Berry herb",
+        "conditions": "Vision health, antioxidant",
+        "abbreviation": "BILB"
+    },
+    {
+        "name": "Biotin",
+        "description": "Vitamin supplement.",
+        "conditions": "Hair, skin, and nail health",
+        "abbreviation": "BIOT"
+    },
+    {
+        "name": "Bisoprolol",
+        "description": "Beta-blocker",
+        "conditions": "Hypertension, heart failure",
+        "abbreviation": "BISO"
+    },
+    {
+        "name": "Black Cohosh",
+        "description": "Flowering plant",
+        "conditions": "Menopause symptoms, menstrual cramps",
+        "abbreviation": "BCOH"
+    },
+    {
+        "name": "Botulinum Toxin (Botox, Dysport)",
+        "description": "Neurotoxin injections for muscle relaxation and wrinkle reduction.",
+        "conditions": "Wrinkles, hyperhidrosis",
+        "abbreviation": "BOTO"
+    },
+    {
+        "name": "Buprenorphine",
+        "description": "Partial opioid agonist",
+        "conditions": "Moderate to severe pain, opioid use disorder",
+        "abbreviation": "BUPREN"
+    },
+    {
+        "name": "Bupropion",
+        "description": "Atypical antidepressant",
+        "conditions": "Depression, smoking cessation",
+        "abbreviation": "BUPR"
+    },
+    {
+        "name": "Burdock",
+        "description": "Root herb",
+        "conditions": "Skin conditions, diuretic",
+        "abbreviation": "BURD"
+    },
+    {
+        "name": "Calcitonin (Miacalcin)",
+        "description": "Hormone therapy.",
+        "conditions": "Osteoporosis, hypercalcemia",
+        "abbreviation": "CALT"
+    },
+    {
+        "name": "Calendula",
+        "description": "Marigold flower",
+        "conditions": "Skin conditions, wounds",
+        "abbreviation": "CALE"
+    },
+    {
+        "name": "Canagliflozin",
+        "description": "SGLT2 inhibitor",
+        "conditions": "Type 2 diabetes",
+        "abbreviation": "CANA"
+    },
+    {
+        "name": "Capecitabine",
+        "description": "Antimetabolite chemotherapy",
+        "conditions": "Breast cancer, colorectal cancer",
+        "abbreviation": "CAPE"
+    },
+    {
+        "name": "Captopril",
+        "description": "Angiotensin-converting enzyme (ACE) inhibitor",
+        "conditions": "Hypertension, heart failure",
+        "abbreviation": "CAPT"
+    },
+    {
+        "name": "Carvedilol",
+        "description": "Beta-blocker with alpha-blocking activity",
+        "conditions": "Heart failure, hypertension",
+        "abbreviation": "CARV"
+    },
+    {
+        "name": "Cat's Claw",
+        "description": "Woody vine",
+        "conditions": "Immune support, arthritis",
+        "abbreviation": "CC"
+    },
+    {
+        "name": "Ceftriaxone",
+        "description": "Third-generation cephalosporin antibiotic",
+        "conditions": "Bacterial infections",
+        "abbreviation": "CEFTR"
+    },
+    {
+        "name": "Celecoxib",
+        "description": "COX-2 selective NSAID",
+        "conditions": "Pain, inflammation, osteoarthritis, rheumatoid arthritis",
+        "abbreviation": "CELCO"
+    },
+    {
+        "name": "Chamomile",
+        "description": "Flowering herb",
+        "conditions": "Sleep disorders, digestion, skin conditions",
+        "abbreviation": "CHAM"
+    },
+    {
+        "name": "Chasteberry (Vitex)",
+        "description": "Fruit-bearing herb",
+        "conditions": "Menstrual disorders",
+        "abbreviation": "CHAS"
+    },
+    {
+        "name": "Cinnamon",
+        "description": "Bark spice",
+        "conditions": "Blood sugar regulation, antioxidant",
+        "abbreviation": "CINN"
+    },
+    {
+        "name": "Ciprofloxacin",
+        "description": "Fluoroquinolone antibiotic",
+        "conditions": "Bacterial infections",
+        "abbreviation": "CIPR"
+    },
+    {
+        "name": "Cisplatin",
+        "description": "Platinum-containing chemotherapy",
+        "conditions": "Various cancers",
+        "abbreviation": "CISPL"
+    },
+    {
+        "name": "Clindamycin",
+        "description": "Lincosamide antibiotic",
+        "conditions": "Bacterial infections, dental infections",
+        "abbreviation": "CLIN"
+    },
+    {
+        "name": "Clomiphene (Clomid)",
+        "description": "Ovulation stimulant.",
+        "conditions": "Infertility",
+        "abbreviation": "CLOM"
+    },
+    {
+        "name": "Clonazepam",
+        "description": "Benzodiazepine",
+        "conditions": "Anxiety, seizures",
+        "abbreviation": "CLON"
+    },
+    {
+        "name": "Clopidogrel",
+        "description": "Platelet aggregation inhibitor",
+        "conditions": "Preventing clot formation post heart attack/stenting",
+        "abbreviation": "CLOP"
+    },
+    {
+        "name": "Codeine",
+        "description": "Opioid analgesic",
+        "conditions": "Mild to moderate pain, cough",
+        "abbreviation": "CODE"
+    },
+    {
+        "name": "Coenzyme Q10",
+        "description": "Dietary supplement.",
+        "conditions": "Antioxidant support, mitochondrial health",
+        "abbreviation": "COQ10"
+    },
+    {
+        "name": "Collagen Supplements",
+        "description": "Dietary supplement.",
+        "conditions": "Skin health, joint health",
+        "abbreviation": "COLL"
+    },
+    {
+        "name": "Combined Oral Contraceptives (Yasmin, Ortho Tri-Cyclen)",
+        "description": "Estrogen and progestin pills.",
+        "conditions": "Birth control, acne, menstrual regulation",
+        "abbreviation": "COCP"
+    },
+    {
+        "name": "Cordyceps",
+        "description": "Fungi",
+        "conditions": "Energy, athletic performance",
+        "abbreviation": "CORD"
+    },
+    {
+        "name": "Cyclophosphamide",
+        "description": "Alkylating agent",
+        "conditions": "Various cancers including lymphoma, leukemia",
+        "abbreviation": "CYCL"
+    },
+    {
+        "name": "Dandelion",
+        "description": "Flowering herb",
+        "conditions": "Digestive issues, liver detox",
+        "abbreviation": "DAND"
+    },
+    {
+        "name": "Dapagliflozin",
+        "description": "SGLT2 inhibitor",
+        "conditions": "Type 2 diabetes",
+        "abbreviation": "DAPA"
+    },
+    {
+        "name": "Diazepam",
+        "description": "Benzodiazepine",
+        "conditions": "Anxiety, muscle spasms, seizures",
+        "abbreviation": "DIAZ"
+    },
+    {
+        "name": "Diclofenac",
+        "description": "NSAID",
+        "conditions": "Pain, inflammation",
+        "abbreviation": "DICL"
+    },
+    {
+        "name": "Digoxin",
+        "description": "Cardiac glycoside",
+        "conditions": "Heart failure, atrial fibrillation",
+        "abbreviation": "DIGX"
+    },
+    {
+        "name": "Diltiazem",
+        "description": "Calcium channel blocker",
+        "conditions": "Hypertension, angina, arrhythmias",
+        "abbreviation": "DILT"
+    },
+    {
+        "name": "Doxorubicin",
+        "description": "Anthracycline antibiotic",
+        "conditions": "Various cancers",
+        "abbreviation": "DOXO"
+    },
+    {
+        "name": "Doxycycline",
+        "description": "Tetracycline antibiotic",
+        "conditions": "Bacterial infections, acne",
+        "abbreviation": "DOXY"
+    },
+    {
+        "name": "Duloxetine",
+        "description": "SNRI antidepressant",
+        "conditions": "Depression, generalized anxiety disorder, neuropathic pain",
+        "abbreviation": "DULX"
+    },
+    {
+        "name": "Dutasteride",
+        "description": "Similar to finasteride but more potent.",
+        "conditions": "Benign prostatic hyperplasia",
+        "abbreviation": "DUTA"
+    },
+    {
+        "name": "Echinacea",
+        "description": "Flowering plant",
+        "conditions": "Immune booster, cold and flu",
+        "abbreviation": "ECHI"
+    },
+    {
+        "name": "Elderberry",
+        "description": "Berry-bearing shrub",
+        "conditions": "Cold and flu, immune support",
+        "abbreviation": "ELDE"
+    },
+    {
+        "name": "Empagliflozin",
+        "description": "SGLT2 inhibitor",
+        "conditions": "Type 2 diabetes",
+        "abbreviation": "EMPA"
+    },
+    {
+        "name": "Enalapril",
+        "description": "ACE inhibitor",
+        "conditions": "Hypertension, heart failure",
+        "abbreviation": "ENAL"
+    },
+    {
+        "name": "Erlotinib",
+        "description": "Epidermal growth factor receptor inhibitor",
+        "conditions": "Non-small cell lung cancer, pancreatic cancer",
+        "abbreviation": "ERLO"
+    },
+    {
+        "name": "Esomeprazole (Nexium)",
+        "description": "Proton pump inhibitor.",
+        "conditions": "GERD, ulcers",
+        "abbreviation": "ESOM"
+    },
+    {
+        "name": "Estrogens (Premarin, Estrace)",
+        "description": "Hormone replacement therapy.",
+        "conditions": "Menopausal symptoms, osteoporosis prevention",
+        "abbreviation": "ESTR"
+    },
+    {
+        "name": "Exenatide",
+        "description": "GLP-1 receptor agonist",
+        "conditions": "Type 2 diabetes",
+        "abbreviation": "EXEN"
+    },
+    {
+        "name": "Fenugreek",
+        "description": "Seed herb",
+        "conditions": "Lactation support, blood sugar regulation",
+        "abbreviation": "FENU"
+    },
+    {
+        "name": "Finasteride",
+        "description": "5-alpha reductase inhibitor.",
+        "conditions": "Male pattern baldness, benign prostatic hyperplasia",
+        "abbreviation": "FINA"
+    },
+    {
+        "name": "Fluoxetine",
+        "description": "Selective serotonin reuptake inhibitor (SSRI)",
+        "conditions": "Depression, obsessive-compulsive disorder",
+        "abbreviation": "FLUX"
+    },
+    {
+        "name": "Furosemide",
+        "description": "Loop diuretic",
+        "conditions": "Edema, hypertension",
+        "abbreviation": "FURO"
+    },
+    {
+        "name": "Gabapentin",
+        "description": "Anticonvulsant, neuropathic pain agent",
+        "conditions": "Neuropathic pain, seizures",
+        "abbreviation": "GABA"
+    },
+    {
+        "name": "Garlic",
+        "description": "Bulbous plant",
+        "conditions": "Cardiovascular health, immune support",
+        "abbreviation": "GARL"
+    },
+    {
+        "name": "Ginger",
+        "description": "Root spice",
+        "conditions": "Nausea, digestive issues, inflammation",
+        "abbreviation": "GING"
+    },
+    {
+        "name": "Ginkgo Biloba",
+        "description": "Ancient tree",
+        "conditions": "Memory, cognitive support",
+        "abbreviation": "GINK"
+    },
+    {
+        "name": "Ginseng",
+        "description": "Root herb",
+        "conditions": "Energy, adaptogen, cognitive support",
+        "abbreviation": "GINS"
+    },
+    {
+        "name": "Glimepiride",
+        "description": "Sulfonylurea",
+        "conditions": "Type 2 diabetes",
+        "abbreviation": "GLIM"
+    },
+    {
+        "name": "Glipizide",
+        "description": "Sulfonylurea",
+        "conditions": "Type 2 diabetes",
+        "abbreviation": "GLIP"
+    },
+    {
+        "name": "Glucosamine & Chondroitin",
+        "description": "Dietary supplements.",
+        "conditions": "Joint health",
+        "abbreviation": "GLUC"
+    },
+    {
+        "name": "Goldenseal",
+        "description": "Perennial herb",
+        "conditions": "Digestive issues, antimicrobial",
+        "abbreviation": "GOLD"
+    },
+    {
+        "name": "Gotu Kola",
+        "description": "Asian herb",
+        "conditions": "Wound healing, cognitive support",
+        "abbreviation": "GOTU"
+    },
+    {
+        "name": "Hawthorn",
+        "description": "Berry-bearing shrub",
+        "conditions": "Cardiovascular support",
+        "abbreviation": "HAWT"
+    },
+    {
+        "name": "Hops",
+        "description": "Flowering plant",
+        "conditions": "Sleep disorders, anxiety",
+        "abbreviation": "HOPS"
+    },
+    {
+        "name": "Horse Chestnut",
+        "description": "Seed herb",
+        "conditions": "Venous insufficiency, varicose veins",
+        "abbreviation": "HCHE"
+    },
+    {
+        "name": "Hyaluronic Acid Fillers",
+        "description": "Injectable fillers for restoring volume and reducing wrinkles.",
+        "conditions": "Wrinkles, facial volume loss",
+        "abbreviation": "HYAF"
+    },
+    {
+        "name": "Hydrochlorothiazide",
+        "description": "Thiazide diuretic",
+        "conditions": "Hypertension, edema",
+        "abbreviation": "HCTZ"
+    },
+    {
+        "name": "Hydrocodone/Acetaminophen",
+        "description": "Opioid analgesic and non-opioid analgesic combination",
+        "conditions": "Moderate to severe pain",
+        "abbreviation": "HYAC"
+    },
+    {
+        "name": "Ibandronate (Boniva)",
+        "description": "Bisphosphonate.",
+        "conditions": "Osteoporosis",
+        "abbreviation": "IBAN"
+    },
+    {
+        "name": "Ibuprofen",
+        "description": "Nonsteroidal anti-inflammatory drug (NSAID)",
+        "conditions": "Pain, inflammation, fever",
+        "abbreviation": "IBUP"
+    },
+    {
+        "name": "Imatinib",
+        "description": "Tyrosine kinase inhibitor",
+        "conditions": "Chronic myeloid leukemia, gastrointestinal stromal tumor",
+        "abbreviation": "IMAT"
+    },
+    {
+        "name": "Insulin (various types)",
+        "description": "Hormone replacement",
+        "conditions": "Type 1 and 2 diabetes",
+        "abbreviation": "INSL"
+    },
+    {
+        "name": "Iron Supplements",
+        "description": "Mineral supplement.",
+        "conditions": "Iron-deficiency anemia",
+        "abbreviation": "IRON"
+    },
+    {
+        "name": "Kava Kava",
+        "description": "Root herb",
+        "conditions": "Anxiety, sleep disorders",
+        "abbreviation": "KAVA"
+    },
+    {
+        "name": "Lansoprazole (Prevacid)",
+        "description": "Proton pump inhibitor.",
+        "conditions": "GERD, ulcers",
+        "abbreviation": "LANS"
+    },
+    {
+        "name": "Latisse (Bimatoprost)",
+        "description": "Topical solution for eyelash growth.",
+        "conditions": "Eyelash hypotrichosis",
+        "abbreviation": "LATI"
+    },
+    {
+        "name": "Lavender",
+        "description": "Flowering plant",
+        "conditions": "Sleep disorders, anxiety, skin conditions",
+        "abbreviation": "LAVE"
+    },
+    {
+        "name": "Lemon Balm",
+        "description": "Mint family herb",
+        "conditions": "Sleep disorders, digestive issues",
+        "abbreviation": "LBAL"
+    },
+    {
+        "name": "Letrozole",
+        "description": "Aromatase inhibitor",
+        "conditions": "Breast cancer",
+        "abbreviation": "LETR"
+    },
+    {
+        "name": "Licorice",
+        "description": "Root herb",
+        "conditions": "Digestive issues, respiratory conditions",
+        "abbreviation": "LICO"
+    },
+    {
+        "name": "Linezolid",
+        "description": "Oxazolidinone antibiotic",
+        "conditions": "Gram-positive bacterial infections",
+        "abbreviation": "LINEZ"
+    },
+    {
+        "name": "Liraglutide",
+        "description": "GLP-1 receptor agonist",
+        "conditions": "Type 2 diabetes, weight management",
+        "abbreviation": "LIRA"
+    },
+    {
+        "name": "Lisinopril",
+        "description": "Angiotensin-converting enzyme (ACE) inhibitor",
+        "conditions": "Hypertension, heart failure",
+        "abbreviation": "LISI"
+    },
+    {
+        "name": "Lithium",
+        "description": "Mood stabilizer",
+        "conditions": "Bipolar disorder",
+        "abbreviation": "LITH"
+    },
+    {
+        "name": "Loperamide (Imodium)",
+        "description": "Anti-diarrheal agent.",
+        "conditions": "Diarrhea",
+        "abbreviation": "LOPR"
+    },
+    {
+        "name": "Lorazepam",
+        "description": "Benzodiazepine",
+        "conditions": "Anxiety, seizures, insomnia",
+        "abbreviation": "LORZ"
+    },
+    {
+        "name": "Losartan",
+        "description": "Angiotensin II receptor blocker",
+        "conditions": "Hypertension, heart failure",
+        "abbreviation": "LOSA"
+    },
+    {
+        "name": "Maca",
+        "description": "Root herb",
+        "conditions": "Energy, libido, hormone balance",
+        "abbreviation": "MACA"
+    },
+    {
+        "name": "Marshmallow Root",
+        "description": "Root herb",
+        "conditions": "Digestive issues, respiratory conditions",
+        "abbreviation": "MARS"
+    },
+    {
+        "name": "Melatonin",
+        "description": "Hormone supplement.",
+        "conditions": "Sleep disorders",
+        "abbreviation": "MELA"
+    },
+    {
+        "name": "Meropenem",
+        "description": "Carbapenem antibiotic",
+        "conditions": "Severe bacterial infections",
+        "abbreviation": "MERO"
+    },
+    {
+        "name": "Mesalamine (Asacol, Lialda)",
+        "description": "Anti-inflammatory.",
+        "conditions": "Ulcerative colitis",
+        "abbreviation": "MESA"
+    },
+    {
+        "name": "Metformin",
+        "description": "Oral antidiabetic; Biguanide",
+        "conditions": "Type 2 diabetes, PCOS",
+        "abbreviation": "METF"
+    },
+    {
+        "name": "Methotrexate",
+        "description": "Antimetabolite",
+        "conditions": "Rheumatoid arthritis, psoriasis, certain cancers",
+        "abbreviation": "METHO"
+    },
+    {
+        "name": "Metoclopramide (Reglan)",
+        "description": "Prokinetic agent.",
+        "conditions": "Gastroparesis, GERD",
+        "abbreviation": "METO"
+    },
+    {
+        "name": "Metronidazole",
+        "description": "Nitroimidazole antibiotic/antiprotozoal",
+        "conditions": "Anaerobic bacterial infections, parasitic infections",
+        "abbreviation": "METRO"
+    },
+    {
+        "name": "Milk Thistle",
+        "description": "Thistle herb",
+        "conditions": "Liver support",
+        "abbreviation": "MTHI"
+    },
+    {
+        "name": "Mirtazapine",
+        "description": "Atypical antidepressant",
+        "conditions": "Depression",
+        "abbreviation": "MIRT"
+    },
+    {
+        "name": "Misoprostol",
+        "description": "Prostaglandin E1 analog.",
+        "conditions": "Ulcer prevention, medical abortion",
+        "abbreviation": "MISO"
+    },
+    {
+        "name": "Morphine",
+        "description": "Opioid analgesic",
+        "conditions": "Severe pain",
+        "abbreviation": "MORPH"
+    },
+    {
+        "name": "Moxifloxacin",
+        "description": "Fluoroquinolone antibiotic",
+        "conditions": "Bacterial infections",
+        "abbreviation": "MOXI"
+    },
+    {
+        "name": "Naproxen",
+        "description": "NSAID",
+        "conditions": "Pain, inflammation, osteoarthritis, rheumatoid arthritis",
+        "abbreviation": "NAPRO"
+    },
+    {
+        "name": "Nettle",
+        "description": "Leafy herb",
+        "conditions": "Allergies, inflammation",
+        "abbreviation": "NETT"
+    },
+    {
+        "name": "Nifedipine",
+        "description": "Calcium channel blocker",
+        "conditions": "Hypertension, angina",
+        "abbreviation": "NIFE"
+    },
+    {
+        "name": "Nivolumab",
+        "description": "PD-1 inhibitor",
+        "conditions": "Various cancers",
+        "abbreviation": "NIVO"
+    },
+    {
+        "name": "Omega-3 Fatty Acids (Fish Oil)",
+        "description": "Dietary supplement.",
+        "conditions": "Heart health, inflammation reduction",
+        "abbreviation": "OME3"
+    },
+    {
+        "name": "Omeprazole",
+        "description": "Proton pump inhibitor (PPI)",
+        "conditions": "Acid reflux, peptic ulcer disease",
+        "abbreviation": "OMZL"
+    },
+    {
+        "name": "Omeprazole (Prilosec)",
+        "description": "Proton pump inhibitor.",
+        "conditions": "GERD, ulcers, Zollinger-Ellison syndrome",
+        "abbreviation": "OMZ"
+    },
+    {
+        "name": "Oregano",
+        "description": "Culinary herb",
+        "conditions": "Antimicrobial, respiratory conditions",
+        "abbreviation": "OREG"
+    },
+    {
+        "name": "Oxycodone",
+        "description": "Opioid analgesic",
+        "conditions": "Moderate to severe pain",
+        "abbreviation": "OXYC"
+    },
+    {
+        "name": "Paclitaxel",
+        "description": "Microtubule inhibitor",
+        "conditions": "Ovarian, breast, and lung cancers",
+        "abbreviation": "PACLI"
+    },
+    {
+        "name": "Pancrelipase (Creon, Pancreaze)",
+        "description": "Pancreatic enzyme replacement.",
+        "conditions": "Pancreatic insufficiency",
+        "abbreviation": "PANC"
+    },
+    {
+        "name": "Paracetamol",
+        "description": "Analgesic, antipyretic",
+        "conditions": "Pain, fever",
+        "abbreviation": "PARA"
+    },
+    {
+        "name": "Passionflower",
+        "description": "Flowering herb",
+        "conditions": "Sleep disorders, anxiety",
+        "abbreviation": "PASS"
+    },
+    {
+        "name": "Pembrolizumab",
+        "description": "PD-1 inhibitor",
+        "conditions": "Various cancers",
+        "abbreviation": "PEMB"
+    },
+    {
+        "name": "Peppermint",
+        "description": "Mint family herb",
+        "conditions": "Digestive issues, tension headaches",
+        "abbreviation": "PEPP"
+    },
+    {
+        "name": "Pioglitazone",
+        "description": "Thiazolidinedione",
+        "conditions": "Type 2 diabetes",
+        "abbreviation": "PGLZ"
+    },
+    {
+        "name": "Piperacillin/Tazobactam",
+        "description": "Beta-lactam antibiotic and beta-lactamase inhibitor combination",
+        "conditions": "Bacterial infections",
+        "abbreviation": "PIP/TAZO"
+    },
+    {
+        "name": "Prednisone",
+        "description": "Corticosteroid",
+        "conditions": "Inflammation, autoimmune disorders",
+        "abbreviation": "PRED"
+    },
+    {
+        "name": "Pregabalin",
+        "description": "Anticonvulsant, neuropathic pain agent",
+        "conditions": "Neuropathic pain, fibromyalgia, seizures",
+        "abbreviation": "PREG"
+    },
+    {
+        "name": "Probiotics (various strains)",
+        "description": "Live bacteria and yeasts.",
+        "conditions": "Gut flora balance, diarrhea from antibiotics",
+        "abbreviation": "PROB"
+    },
+    {
+        "name": "Progesterone (Prometrium)",
+        "description": "Natural hormone for HRT and birth control.",
+        "conditions": "Menopausal symptoms, birth control",
+        "abbreviation": "PROG"
+    },
+    {
+        "name": "Propranolol",
+        "description": "Beta-blocker",
+        "conditions": "Hypertension, angina, arrhythmias",
+        "abbreviation": "PROP"
+    },
+    {
+        "name": "Psyllium (Metamucil)",
+        "description": "Fiber supplement.",
+        "conditions": "Constipation, IBS",
+        "abbreviation": "PSYL"
+    },
+    {
+        "name": "Quetiapine",
+        "description": "Atypical antipsychotic",
+        "conditions": "Schizophrenia, bipolar disorder, depression",
+        "abbreviation": "QUET"
+    },
+    {
+        "name": "Raloxifene (Evista)",
+        "description": "Selective estrogen receptor modulator.",
+        "conditions": "Osteoporosis, breast cancer prevention",
+        "abbreviation": "RALO"
+    },
+    {
+        "name": "Ranitidine",
+        "description": "Histamine-2 blocker",
+        "conditions": "Acid reflux, peptic ulcer disease",
+        "abbreviation": "RANI"
+    },
+    {
+        "name": "Red Clover",
+        "description": "Flowering plant",
+        "conditions": "Menopause symptoms",
+        "abbreviation": "RCLO"
+    },
+    {
+        "name": "Reishi Mushroom",
+        "description": "Fungi",
+        "conditions": "Immune support, stress",
+        "abbreviation": "REIS"
+    },
+    {
+        "name": "Retinoids (Tretinoin, Adapalene)",
+        "description": "Topical agents that stimulate collagen production and treat acne.",
+        "conditions": "Acne, wrinkles, skin discoloration",
+        "abbreviation": "RETN"
+    },
+    {
+        "name": "Rhodiola",
+        "description": "Root herb",
+        "conditions": "Stress, adaptogen, fatigue",
+        "abbreviation": "RHOD"
+    },
+    {
+        "name": "Rifaximin (Xifaxan)",
+        "description": "Antibiotic.",
+        "conditions": "Travelers' diarrhea, IBS with diarrhea",
+        "abbreviation": "RIFX"
+    },
+    {
+        "name": "Risedronate (Actonel)",
+        "description": "Bisphosphonate.",
+        "conditions": "Osteoporosis, Paget's disease",
+        "abbreviation": "RISE"
+    },
+    {
+        "name": "Risperidone",
+        "description": "Antipsychotic",
+        "conditions": "Schizophrenia, bipolar disorder",
+        "abbreviation": "RISP"
+    },
+    {
+        "name": "Rituximab",
+        "description": "Monoclonal antibody",
+        "conditions": "Non-Hodgkin lymphoma, chronic lymphocytic leukemia, rheumatoid arthritis",
+        "abbreviation": "RITU"
+    },
+    {
+        "name": "Rosemary",
+        "description": "Culinary herb",
+        "conditions": "Cognitive support, antioxidant",
+        "abbreviation": "ROSE"
+    },
+    {
+        "name": "Rosuvastatin",
+        "description": "Statin",
+        "conditions": "Hypercholesterolemia",
+        "abbreviation": "ROSU"
+    },
+    {
+        "name": "Sage",
+        "description": "Culinary herb",
+        "conditions": "Cognitive support, menopause symptoms",
+        "abbreviation": "SAGE"
+    },
+    {
+        "name": "Saw Palmetto",
+        "description": "Berry herb",
+        "conditions": "Prostate health",
+        "abbreviation": "SAWP"
+    },
+    {
+        "name": "Schisandra",
+        "description": "Berry-bearing vine",
+        "conditions": "Stress, liver support",
+        "abbreviation": "SCHI"
+    },
+    {
+        "name": "Sertraline",
+        "description": "Selective serotonin reuptake inhibitor (SSRI)",
+        "conditions": "Depression, obsessive-compulsive disorder, panic disorder",
+        "abbreviation": "SERT"
+    },
+    {
+        "name": "Sildenafil (Viagra)",
+        "description": "PDE5 inhibitor.",
+        "conditions": "Erectile dysfunction",
+        "abbreviation": "SILD"
+    },
+    {
+        "name": "Simethicone",
+        "description": "Anti-foaming agent.",
+        "conditions": "Flatulence, gas",
+        "abbreviation": "SIMT"
+    },
+    {
+        "name": "Simvastatin",
+        "description": "Statin for cholesterol",
+        "conditions": "High cholesterol, atherosclerosis",
+        "abbreviation": "SIMV"
+    },
+    {
+        "name": "Sitagliptin",
+        "description": "DPP-4 inhibitor",
+        "conditions": "Type 2 diabetes",
+        "abbreviation": "SITA"
+    },
+    {
+        "name": "St. John's Wort",
+        "description": "Flowering herb",
+        "conditions": "Depression",
+        "abbreviation": "SJW"
+    },
+    {
+        "name": "Tadalafil (Cialis)",
+        "description": "PDE5 inhibitor with prolonged duration.",
+        "conditions": "Erectile dysfunction, benign prostatic hyperplasia",
+        "abbreviation": "TADA"
+    },
+    {
+        "name": "Tamoxifen",
+        "description": "Estrogen receptor modulator",
+        "conditions": "Breast cancer",
+        "abbreviation": "TAMO"
+    },
+    {
+        "name": "Teriparatide (Forteo)",
+        "description": "Parathyroid hormone analog.",
+        "conditions": "Osteoporosis",
+        "abbreviation": "TERI"
+    },
+    {
+        "name": "Tetracycline",
+        "description": "Antibiotic",
+        "conditions": "Bacterial infections, acne",
+        "abbreviation": "TETR"
+    },
+    {
+        "name": "Thyroxine (Levothyroxine)",
+        "description": "Thyroid hormone replacement",
+        "conditions": "Hypothyroidism",
+        "abbreviation": "THYR"
+    },
+    {
+        "name": "Tramadol",
+        "description": "Opioid analgesic",
+        "conditions": "Moderate to severe pain",
+        "abbreviation": "TRAM"
+    },
+    {
+        "name": "Tribulus Terrestris",
+        "description": "Flowering plant",
+        "conditions": "Libido, athletic performance",
+        "abbreviation": "TRIB"
+    },
+    {
+        "name": "Trimethoprim/Sulfamethoxazole",
+        "description": "Antibiotic combination",
+        "conditions": "Bacterial infections, PCP prophylaxis",
+        "abbreviation": "TMP/SMX"
+    },
+    {
+        "name": "Turmeric",
+        "description": "Root spice",
+        "conditions": "Inflammation, antioxidant",
+        "abbreviation": "TURM"
+    },
+    {
+        "name": "Valerian",
+        "description": "Root herb",
+        "conditions": "Sleep disorders, anxiety",
+        "abbreviation": "VALE"
+    },
+    {
+        "name": "Valsartan",
+        "description": "Angiotensin II receptor blocker",
+        "conditions": "Hypertension, heart failure",
+        "abbreviation": "VALS"
+    },
+    {
+        "name": "Vancomycin",
+        "description": "Glycopeptide antibiotic",
+        "conditions": "MRSA, severe gram-positive infections",
+        "abbreviation": "VANC"
+    },
+    {
+        "name": "Venlafaxine",
+        "description": "SNRI antidepressant",
+        "conditions": "Depression, generalized anxiety disorder, panic disorder",
+        "abbreviation": "VENL"
+    },
+    {
+        "name": "Vitamin D3 (Cholecalciferol)",
+        "description": "Vitamin supplement.",
+        "conditions": "Vitamin D deficiency, bone health",
+        "abbreviation": "VITD"
+    },
+    {
+        "name": "Warfarin",
+        "description": "Anticoagulant",
+        "conditions": "Blood clots, stroke prevention in atrial fibrillation",
+        "abbreviation": "WARF"
+    },
+    {
+        "name": "White Willow Bark",
+        "description": "Bark herb",
+        "conditions": "Pain, inflammation",
+        "abbreviation": "WWB"
+    },
+    {
+        "name": "Witch Hazel",
+        "description": "Shrub",
+        "conditions": "Skin conditions, astringent",
+        "abbreviation": "WITC"
+    },
+    {
+        "name": "Yarrow",
+        "description": "Flowering herb",
+        "conditions": "Wound healing, fever",
+        "abbreviation": "YARR"
+    },
+    {
+        "name": "Zoledronic Acid (Reclast, Zometa)",
+        "description": "Bisphosphonate.",
+        "conditions": "Osteoporosis, Paget's disease, hypercalcemia",
+        "abbreviation": "ZOLE"
+    },
+    {
+        "name": "Zolpidem",
+        "description": "Sedative-hypnotic",
+        "conditions": "Insomnia",
+        "abbreviation": "ZOLP"
+    }
+]

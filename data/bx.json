@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Alanine Aminotransferase",
+    "abbreviation": "ALT"
+  },
+  {
+    "name": "Albumin",
+    "abbreviation": "ALB"
+  },
+  {
+    "name": "Alkaline Phosphatase",
+    "abbreviation": "ALP"
+  },
+  {
+    "name": "Amylase",
+    "abbreviation": "AMY"
+  },
+  {
+    "name": "Antinuclear Antibody",
+    "abbreviation": "ANA"
+  },
+  {
+    "name": "Aspartate Aminotransferase",
+    "abbreviation": "AST"
+  },
+  {
+    "name": "Bilirubin",
+    "abbreviation": "BILI"
+  },
+  {
+    "name": "Blood Urea Nitrogen",
+    "abbreviation": "BUN"
+  },
+  {
+    "name": "C-reactive Protein",
+    "abbreviation": "CRP"
+  },
+  {
+    "name": "Calcium",
+    "abbreviation": "CA"
+  },
+  {
+    "name": "Carbon Dioxide",
+    "abbreviation": "CO2"
+  },
+  {
+    "name": "Chloride",
+    "abbreviation": "CL"
+  },
+  {
+    "name": "Cholesterol, Total",
+    "abbreviation": "CHOL"
+  },
+  {
+    "name": "Creatinine",
+    "abbreviation": "CR"
+  },
+  {
+    "name": "D-dimer",
+    "abbreviation": "DDIM"
+  },
+  {
+    "name": "Differential Blood Count",
+    "abbreviation": "DIFB"
+  },
+  {
+    "name": "Erythrocyte Sedimentation Rate",
+    "abbreviation": "ESR"
+  },
+  {
+    "name": "Ferritin",
+    "abbreviation": "FERR"
+  },
+  {
+    "name": "Fibrinogen",
+    "abbreviation": "FIB"
+  },
+  {
+    "name": "Folate",
+    "abbreviation": "FOL"
+  },
+  {
+    "name": "Gamma-glutamyl Transferase",
+    "abbreviation": "GGT"
+  },
+  {
+    "name": "Glucose",
+    "abbreviation": "GLU"
+  },
+  {
+    "name": "Hematocrit",
+    "abbreviation": "HCT"
+  },
+  {
+    "name": "Hemoglobin",
+    "abbreviation": "HB"
+  },
+  {
+    "name": "Hemoglobin A1c",
+    "abbreviation": "HBA1C"
+  },
+  {
+    "name": "High-density Lipoprotein Cholesterol",
+    "abbreviation": "HDL"
+  },
+  {
+    "name": "Lactate Dehydrogenase",
+    "abbreviation": "LDH"
+  },
+  {
+    "name": "Lactic Acid",
+    "abbreviation": "LAC"
+  },
+  {
+    "name": "Lipase",
+    "abbreviation": "LIP"
+  },
+  {
+    "name": "Low-density Lipoprotein Cholesterol",
+    "abbreviation": "LDL"
+  },
+  {
+    "name": "Magnesium",
+    "abbreviation": "MG"
+  },
+  {
+    "name": "Mean Corpuscular Volume",
+    "abbreviation": "MCV"
+  },
+  {
+    "name": "Partial Thromboplastin Time",
+    "abbreviation": "PTT"
+  },
+  {
+    "name": "Phosphorus",
+    "abbreviation": "PHOS"
+  },
+  {
+    "name": "Platelet Count",
+    "abbreviation": "PLT"
+  },
+  {
+    "name": "Potassium",
+    "abbreviation": "K"
+  },
+  {
+    "name": "Prothrombin Time",
+    "abbreviation": "PT"
+  },
+  {
+    "name": "Red Blood Cell Count",
+    "abbreviation": "RBC"
+  },
+  {
+    "name": "Rheumatoid Factor",
+    "abbreviation": "RF"
+  },
+  {
+    "name": "Sodium",
+    "abbreviation": "NA"
+  },
+  {
+    "name": "Thyroid Stimulating Hormone",
+    "abbreviation": "TSH"
+  },
+  {
+    "name": "Thyroxine",
+    "abbreviation": "T4"
+  },
+  {
+    "name": "Total Iron Binding Capacity",
+    "abbreviation": "TIBC"
+  },
+  {
+    "name": "Transferrin",
+    "abbreviation": "TFRR"
+  },
+  {
+    "name": "Triglycerides",
+    "abbreviation": "TG"
+  },
+  {
+    "name": "Triiodothyronine",
+    "abbreviation": "T3"
+  },
+  {
+    "name": "Uric Acid",
+    "abbreviation": "UA"
+  },
+  {
+    "name": "Vitamin B12",
+    "abbreviation": "B12"
+  },
+  {
+    "name": "Vitamin D",
+    "abbreviation": "D3"
+  },
+  {
+    "name": "White Blood Cell Count",
+    "abbreviation": "WBC"
+  }
+]

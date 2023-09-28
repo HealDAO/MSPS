@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Blood Pressure",
+    "abbreviation": "BP"
+  },
+  {
+    "name": "Body Mass Index",
+    "abbreviation": "BMI"
+  },
+  {
+    "name": "Capillary Blood Glucose",
+    "abbreviation": "CBG"
+  },
+  {
+    "name": "End-tidal Carbon Dioxide",
+    "abbreviation": "EtCO2"
+  },
+  {
+    "name": "Heart Rate",
+    "abbreviation": "HR"
+  },
+  {
+    "name": "Oxygen Saturation",
+    "abbreviation": "SpO2"
+  },
+  {
+    "name": "Pupil Response",
+    "abbreviation": "PR"
+  },
+  {
+    "name": "Respiratory Rate",
+    "abbreviation": "RR"
+  },
+  {
+    "name": "Temperature",
+    "abbreviation": "Temp"
+  }
+]

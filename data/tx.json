@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Amalgam Filling",
+    "abbreviation": "AF"
+  },
+  {
+    "name": "Appendectomy",
+    "abbreviation": "APPX"
+  },
+  {
+    "name": "Arthroscopy",
+    "abbreviation": "ART-K"
+  },
+  {
+    "name": "Biopsy",
+    "abbreviation": "BX"
+  },
+  {
+    "name": "Bite Adjustment",
+    "abbreviation": "BA"
+  },
+  {
+    "name": "Blood Transfusion",
+    "abbreviation": "BT"
+  },
+  {
+    "name": "Bone Marrow Transplant",
+    "abbreviation": "BMT"
+  },
+  {
+    "name": "Braces Installation",
+    "abbreviation": "Br-I"
+  },
+  {
+    "name": "Bridge Placement",
+    "abbreviation": "BP"
+  },
+  {
+    "name": "Cardiac Catheterization",
+    "abbreviation": "CATH"
+  },
+  {
+    "name": "Cataract Surgery",
+    "abbreviation": "CTRC"
+  },
+  {
+    "name": "Cavity Filling",
+    "abbreviation": "CF"
+  },
+  {
+    "name": "Cesarean Section",
+    "abbreviation": "CSEC"
+  },
+  {
+    "name": "Chemotherapy",
+    "abbreviation": "CHEMO"
+  },
+  {
+    "name": "Cholecystectomy",
+    "abbreviation": "CHLCY"
+  },
+  {
+    "name": "Cleaning and Polishing",
+    "abbreviation": "C&P"
+  },
+  {
+    "name": "Colonoscopy",
+    "abbreviation": "COLO"
+  },
+  {
+    "name": "Coronary Artery Bypass Graft",
+    "abbreviation": "CABG"
+  },
+  {
+    "name": "Deep Cleaning",
+    "abbreviation": "DC"
+  },
+  {
+    "name": "Dental Implants",
+    "abbreviation": "DI"
+  },
+  {
+    "name": "Denture Fitting",
+    "abbreviation": "DF"
+  },
+  {
+    "name": "Dialysis",
+    "abbreviation": "DIAL"
+  },
+  {
+    "name": "Electrocardiogram",
+    "abbreviation": "ECG"
+  },
+  {
+    "name": "Electroencephalogram",
+    "abbreviation": "EEG"
+  },
+  {
+    "name": "Endoscopy",
+    "abbreviation": "END"
+  },
+  {
+    "name": "Extraction",
+    "abbreviation": "Ext"
+  },
+  {
+    "name": "Fluoride Treatment",
+    "abbreviation": "FT"
+  },
+  {
+    "name": "Frenectomy",
+    "abbreviation": "FRNC"
+  },
+  {
+    "name": "Full Mouth Rehabilitation",
+    "abbreviation": "FMR"
+  },
+  {
+    "name": "Gingival Flap Surgery",
+    "abbreviation": "GFS"
+  },
+  {
+    "name": "Gingival Grafting",
+    "abbreviation": "GGraft"
+  },
+  {
+    "name": "Gingivectomy",
+    "abbreviation": "Gingiv"
+  },
+  {
+    "name": "Gum Surgery",
+    "abbreviation": "GUMS"
+  },
+  {
+    "name": "Hip Replacement",
+    "abbreviation": "HIP"
+  },
+  {
+    "name": "Hysterectomy",
+    "abbreviation": "HYST"
+  },
+  {
+    "name": "Impacted Tooth Surgery",
+    "abbreviation": "ITS"
+  },
+  {
+    "name": "Insulin Therapy",
+    "abbreviation": "INS"
+  },
+  {
+    "name": "Intravenous",
+    "abbreviation": "IVF"
+  },
+  {
+    "name": "Invisalign Treatment",
+    "abbreviation": "INVL"
+  },
+  {
+    "name": "Jaw Alignment Surgery",
+    "abbreviation": "JAS"
+  },
+  {
+    "name": "Jaw Wiring",
+    "abbreviation": "JW"
+  },
+  {
+    "name": "Joint Replacement",
+    "abbreviation": "JOINT"
+  },
+  {
+    "name": "Kidney Transplant",
+    "abbreviation": "KT"
+  },
+  {
+    "name": "Laparoscopy",
+    "abbreviation": "LAP"
+  },
+  {
+    "name": "Lasik Eye Surgery",
+    "abbreviation": "LSK"
+  },
+  {
+    "name": "Liver Transplant",
+    "abbreviation": "LT"
+  },
+  {
+    "name": "Lumbar Puncture",
+    "abbreviation": "LP"
+  },
+  {
+    "name": "MRI Scan",
+    "abbreviation": "MRI"
+  },
+  {
+    "name": "Mammography",
+    "abbreviation": "MAMM"
+  },
+  {
+    "name": "Mastectomy",
+    "abbreviation": "MAST"
+  },
+  {
+    "name": "Maxillofacial Surgery",
+    "abbreviation": "MFS"
+  },
+  {
+    "name": "Nebulization Therapy",
+    "abbreviation": "NEB"
+  },
+  {
+    "name": "Night Guard Fitting",
+    "abbreviation": "NGF"
+  },
+  {
+    "name": "Oral Cancer Examination",
+    "abbreviation": "OCE"
+  },
+  {
+    "name": "Oral Prophylaxis",
+    "abbreviation": "OP"
+  },
+  {
+    "name": "Orthodontic Retainer Placement",
+    "abbreviation": "ORP"
+  },
+  {
+    "name": "Overdenture Fitting",
+    "abbreviation": "ODF"
+  },
+  {
+    "name": "Oxygen Therapy",
+    "abbreviation": "O2"
+  },
+  {
+    "name": "Pacemaker Insertion",
+    "abbreviation": "PM-I"
+  },
+  {
+    "name": "Pediatric Dental Checkup",
+    "abbreviation": "PDC"
+  },
+  {
+    "name": "Pedodontic Sealants",
+    "abbreviation": "PS"
+  },
+  {
+    "name": "Physical Therapy",
+    "abbreviation": "PT"
+  },
+  {
+    "name": "Prostatectomy",
+    "abbreviation": "PROST"
+  },
+  {
+    "name": "Pulmonary Function Test",
+    "abbreviation": "PFT"
+  },
+  {
+    "name": "Pulpotomy",
+    "abbreviation": "Pulpot"
+  },
+  {
+    "name": "Radiation Therapy",
+    "abbreviation": "RAD"
+  },
+  {
+    "name": "Reline and Rebasing Dentures",
+    "abbreviation": "RRD"
+  },
+  {
+    "name": "Restoration of Dental Implants",
+    "abbreviation": "RDI"
+  },
+  {
+    "name": "Root Canal Therapy",
+    "abbreviation": "RCT"
+  },
+  {
+    "name": "Scaling and Root Planing",
+    "abbreviation": "SRP"
+  },
+  {
+    "name": "Sealant Application",
+    "abbreviation": "SA"
+  },
+  {
+    "name": "Sinus Augmentation",
+    "abbreviation": "SAug"
+  },
+  {
+    "name": "Spinal Fusion",
+    "abbreviation": "FUSE"
+  },
+  {
+    "name": "Splenectomy",
+    "abbreviation": "SPLN"
+  },
+  {
+    "name": "Stent Placement",
+    "abbreviation": "STNT"
+  },
+  {
+    "name": "Teeth Bleaching/Whitening",
+    "abbreviation": "TW"
+  },
+  {
+    "name": "Temporomandibular Joint Treatment",
+    "abbreviation": "TMJT"
+  },
+  {
+    "name": "Tonsillectomy",
+    "abbreviation": "TNSL"
+  },
+  {
+    "name": "Tooth Bonding",
+    "abbreviation": "TB"
+  },
+  {
+    "name": "Tooth Contouring and Reshaping",
+    "abbreviation": "TCR"
+  },
+  {
+    "name": "Tooth Crown Placement",
+    "abbreviation": "TCP"
+  },
+  {
+    "name": "Tooth Gem Placement",
+    "abbreviation": "TGP"
+  },
+  {
+    "name": "Tooth Splinting",
+    "abbreviation": "TSpl"
+  },
+  {
+    "name": "Tooth Veneer Placement",
+    "abbreviation": "TVP"
+  },
+  {
+    "name": "Tracheostomy",
+    "abbreviation": "TRCH"
+  },
+  {
+    "name": "Tubal Ligation",
+    "abbreviation": "TL"
+  },
+  {
+    "name": "Tympanoplasty",
+    "abbreviation": "TYMP"
+  },
+  {
+    "name": "Ultrasonic Cleaning",
+    "abbreviation": "UC"
+  },
+  {
+    "name": "Ultrasound Imaging",
+    "abbreviation": "USI"
+  },
+  {
+    "name": "Ultraviolet Light Curing",
+    "abbreviation": "UVLC"
+  },
+  {
+    "name": "Uterine Fibroid Removal",
+    "abbreviation": "UFR"
+  },
+  {
+    "name": "Vaccine Administration",
+    "abbreviation": "VACC"
+  },
+  {
+    "name": "Varicose Vein Treatment",
+    "abbreviation": "VVT"
+  },
+  {
+    "name": "Vasectomy",
+    "abbreviation": "VAS"
+  },
+  {
+    "name": "Ventilator Support",
+    "abbreviation": "VENT"
+  },
+  {
+    "name": "Vital Pulp Therapy",
+    "abbreviation": "VPT"
+  },
+  {
+    "name": "Wisdom Tooth Removal",
+    "abbreviation": "WTR"
+  },
+  {
+    "name": "Wound Dressing",
+    "abbreviation": "WD"
+  },
+  {
+    "name": "X-rays",
+    "abbreviation": "XRAY"
+  },
+  {
+    "name": "Zirconia Crowns Placement",
+    "abbreviation": "ZCP"
+  }
+]

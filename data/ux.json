@@ -1,0 +1,23 @@
+[
+  {"name": "millimeters of mercury", "abbreviation": "MMHG"},
+  {"name": "beats per minute", "abbreviation": "BPM"},
+  {"name": "breaths per minute", "abbreviation": "BTHPM"},
+  {"name": "Celsius", "abbreviation": "C"},
+  {"name": "Fahrenheit", "abbreviation": "F"},
+  {"name": "percentage", "abbreviation": "PCT"},
+  {"name": "ratio", "abbreviation": "RAT"},
+  {"name": "kilograms", "abbreviation": "KG"},
+  {"name": "meters", "abbreviation": "M"},
+  {"name": "milligrams per deciliter", "abbreviation": "MGDL"},
+  {"name": "millimoles per liter", "abbreviation": "MMOLL"},
+  {"name": "millimeters", "abbreviation": "MM"},
+  {"name": "grams per deciliter", "abbreviation": "GDL"},
+  {"name": "parts per million", "abbreviation": "PPM"},
+  {"name": "milliequivalents per liter", "abbreviation": "MEQL"},
+  {"name": "International Units", "abbreviation": "IU"},
+  {"name": "liters", "abbreviation": "L"},
+  {"name": "milliliters", "abbreviation": "ML"},
+  {"name": "grams", "abbreviation": "G"},
+  {"name": "milligrams", "abbreviation": "MG"},
+  {"name": "micrograms", "abbreviation": "UG"}
+]
