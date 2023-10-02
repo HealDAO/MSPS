@@ -61,6 +61,16 @@ def generate_hash(data):
     ordered_abbreviations = ''.join(sorted(abbreviations))
     return hashlib.md5(ordered_abbreviations.encode()).hexdigest()
 
+# Standards conformance verification
+def validate_abbreviations(minified_data, mappings):
+    for key, value in minified_data.items():
+        abbreviations = value.split("; ")
+        if abbreviations[0] is not None:
+            _key = abbreviations[0].split('_')[0].lower()
+        for abbreviation in abbreviations:
+            if abbreviation and abbreviation.split('-')[0] not in [item["abbreviation"] for item in mappings[_key]]:
+                raise ValueError(f"Invalid abbreviation found: {abbreviation}")
+
 # Main
 def main(input_data=None):
     mappings = load_mapping_data()
@@ -69,6 +79,8 @@ def main(input_data=None):
     else:
         with open(args.input_file, 'r') as f:
             minified_input = json.load(f)
+
+    validate_abbreviations(minified_input, mappings)  # Validate abbreviations here
 
     expanded_output, abbrevs_from_expanded = expand_data(minified_input, mappings)
     hash_from_minified = generate_hash(minified_input)  
