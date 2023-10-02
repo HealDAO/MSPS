@@ -1,0 +1,9 @@
+[
+  { "name": "birth date", "format": "MMDDYYYY",  "abbreviation": "GX_BD" },
+  { "name": "sex", "format": "M/F/MF/FM",  "abbreviation": "GX_SX" },
+  { "name": "weight in kilograms", "format": "XXkg",  "abbreviation": "GX_WT" },
+  { "name": "height in centimeters", "format": "XXXcm",  "abbreviation": "GX_HT" },
+  { "name": "blood type", "format": "A/B/AB/O",  "abbreviation": "GX_BT" },
+  { "name": "rhesus factor", "format": "0/1", "abbreviation": "GX_RF" },
+  { "name": "severity flag", "format": "0/1",  "abbreviation": "GX_SV" }
+]

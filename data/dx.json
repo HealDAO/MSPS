@@ -1,0 +1,1782 @@
+[
+  {
+    "name": "Abdominal Aortic Aneurysm",
+    "type": "medical",
+    "abbreviation": "DX_AAA"
+  },
+  {
+    "name": "Abdominal and pelvic masses",
+    "type": "medical",
+    "abbreviation": "DX_APM"
+  },
+  {
+    "name": "Acne",
+    "type": "medical",
+    "abbreviation": "DX_ACN"
+  },
+  {
+    "name": "Acute Abdominal Pain",
+    "type": "medical",
+    "abbreviation": "DX_AAP"
+  },
+  {
+    "name": "Acute Bronchitis",
+    "type": "medical",
+    "abbreviation": "DX_ABR"
+  },
+  {
+    "name": "Acute Cerebrovascular Accident",
+    "type": "medical",
+    "abbreviation": "DX_ACA"
+  },
+  {
+    "name": "Acute Kidney Injury",
+    "type": "medical",
+    "abbreviation": "DX_AKI"
+  },
+  {
+    "name": "Acute Myocardial Infarction",
+    "type": "medical",
+    "abbreviation": "DX_AMI"
+  },
+  {
+    "name": "Acute Respiratory Distress",
+    "type": "medical",
+    "abbreviation": "DX_ARD"
+  },
+  {
+    "name": "Acute Respiratory Failure",
+    "type": "medical",
+    "abbreviation": "DX_ARF"
+  },
+  {
+    "name": "Acute and Chronic Hepatitis",
+    "type": "medical",
+    "abbreviation": "DX_ACH"
+  },
+  {
+    "name": "Adrenal Disorders",
+    "type": "medical",
+    "abbreviation": "DX_ADIS"
+  },
+  {
+    "name": "Allergic Rhinitis",
+    "type": "medical",
+    "abbreviation": "DX_ARH"
+  },
+  {
+    "name": "Allergies",
+    "type": "medical",
+    "abbreviation": "DX_ALL"
+  },
+  {
+    "name": "Amenorrhea",
+    "type": "medical",
+    "abbreviation": "DX_AME"
+  },
+  {
+    "name": "Amputation Rehabilitation",
+    "type": "medical",
+    "abbreviation": "DX_AMR"
+  },
+  {
+    "name": "Anaphylaxis",
+    "type": "medical",
+    "abbreviation": "DX_ANA"
+  },
+  {
+    "name": "Anemia",
+    "type": "medical",
+    "abbreviation": "DX_ANE"
+  },
+  {
+    "name": "Anemias",
+    "type": "medical",
+    "abbreviation": "DX_ANES"
+  },
+  {
+    "name": "Anesthesia-related allergies or complications",
+    "type": "medical",
+    "abbreviation": "DX_ARA"
+  },
+  {
+    "name": "Ankylosing Spondylitis",
+    "type": "medical",
+    "abbreviation": "DX_ASP"
+  },
+  {
+    "name": "Anxiety",
+    "type": "medical",
+    "abbreviation": "DX_ANX"
+  },
+  {
+    "name": "Appendicitis",
+    "type": "medical",
+    "abbreviation": "DX_APP"
+  },
+  {
+    "name": "Arrhythmias",
+    "type": "medical",
+    "abbreviation": "DX_ARR"
+  },
+  {
+    "name": "Arthritis",
+    "type": "medical",
+    "abbreviation": "DX_ARTH"
+  },
+  {
+    "name": "Asthma",
+    "type": "medical",
+    "abbreviation": "DX_AST"
+  },
+  {
+    "name": "Atopic Dermatitis",
+    "type": "medical",
+    "abbreviation": "DX_ADER"
+  },
+  {
+    "name": "Attention-Deficit/Hyperactivity Disorder",
+    "type": "medical",
+    "abbreviation": "DX_ADHD"
+  },
+  {
+    "name": "Autoimmune disorders",
+    "type": "medical",
+    "abbreviation": "DX_AID"
+  },
+  {
+    "name": "Back pain",
+    "type": "medical",
+    "abbreviation": "DX_BKPN"
+  },
+  {
+    "name": "Bacterial Vaginosis",
+    "type": "medical",
+    "abbreviation": "DX_BCVG"
+  },
+  {
+    "name": "Basal Cell Carcinoma and other skin cancers",
+    "type": "medical",
+    "abbreviation": "DX_BCC"
+  },
+  {
+    "name": "Benign Breast Disorders",
+    "type": "medical",
+    "abbreviation": "DX_BBD"
+  },
+  {
+    "name": "Benign Prostatic Hyperplasia",
+    "type": "medical",
+    "abbreviation": "DX_BPH"
+  },
+  {
+    "name": "Benign and Malignant Tumors",
+    "type": "medical",
+    "abbreviation": "DX_BMT"
+  },
+  {
+    "name": "Bipolar Disorder",
+    "type": "medical",
+    "abbreviation": "DX_BPLR"
+  },
+  {
+    "name": "Bone Metastases",
+    "type": "medical",
+    "abbreviation": "DX_BMET"
+  },
+  {
+    "name": "Breast Cancer screening and prevention",
+    "type": "medical",
+    "abbreviation": "DX_BCSP"
+  },
+  {
+    "name": "Breast Masses",
+    "type": "medical",
+    "abbreviation": "DX_BRSM"
+  },
+  {
+    "name": "Candidiasis",
+    "type": "medical",
+    "abbreviation": "DX_CAND"
+  },
+  {
+    "name": "Cardiac Stress Testing",
+    "type": "medical",
+    "abbreviation": "DX_CST"
+  },
+  {
+    "name": "Carotid Artery Stenosis",
+    "type": "medical",
+    "abbreviation": "DX_CAS"
+  },
+  {
+    "name": "Cataracts",
+    "type": "medical",
+    "abbreviation": "DX_CAT"
+  },
+  {
+    "name": "Celiac Disease",
+    "type": "medical",
+    "abbreviation": "DX_CLCD"
+  },
+  {
+    "name": "Cerebral Palsy",
+    "type": "medical",
+    "abbreviation": "DX_CRBP"
+  },
+  {
+    "name": "Cervical Cancer",
+    "type": "medical",
+    "abbreviation": "DX_CCAN"
+  },
+  {
+    "name": "Chronic Kidney Disease",
+    "type": "medical",
+    "abbreviation": "DX_CKD"
+  },
+  {
+    "name": "Chronic Lung Disease of Prematurity",
+    "type": "medical",
+    "abbreviation": "DX_CLDP"
+  },
+  {
+    "name": "Chronic Obstructive Pulmonary Disease",
+    "type": "medical",
+    "abbreviation": "DX_COPD"
+  },
+  {
+    "name": "Chronic Otitis Media",
+    "type": "medical",
+    "abbreviation": "DX_COSM"
+  },
+  {
+    "name": "Chronic Pain",
+    "type": "medical",
+    "abbreviation": "DX_CPAIN"
+  },
+  {
+    "name": "Chronic Sinusitis",
+    "type": "medical",
+    "abbreviation": "DX_CSIN"
+  },
+  {
+    "name": "Cirrhosis and Liver Diseases",
+    "type": "medical",
+    "abbreviation": "DX_CIRR"
+  },
+  {
+    "name": "Colorectal Cancer",
+    "type": "medical",
+    "abbreviation": "DX_CRC"
+  },
+  {
+    "name": "Complex Regional Pain Syndrome",
+    "type": "medical",
+    "abbreviation": "DX_CRPS"
+  },
+  {
+    "name": "Concussions",
+    "type": "medical",
+    "abbreviation": "DX_CONC"
+  },
+  {
+    "name": "Congenital Heart Defects",
+    "type": "medical",
+    "abbreviation": "DX_CHD"
+  },
+  {
+    "name": "Congenital Infections",
+    "type": "medical",
+    "abbreviation": "DX_CINF"
+  },
+  {
+    "name": "Contact Dermatitis",
+    "type": "medical",
+    "abbreviation": "DX_CONTD"
+  },
+  {
+    "name": "Coronary Artery Disease",
+    "type": "medical",
+    "abbreviation": "DX_CAD"
+  },
+  {
+    "name": "Cystic Fibrosis",
+    "type": "medical",
+    "abbreviation": "DX_CFIB"
+  },
+  {
+    "name": "Depression",
+    "type": "medical",
+    "abbreviation": "DX_DEP"
+  },
+  {
+    "name": "Dermatological issues",
+    "type": "medical",
+    "abbreviation": "DX_DISS"
+  },
+  {
+    "name": "Developmental Disorders",
+    "type": "medical",
+    "abbreviation": "DX_DVDS"
+  },
+  {
+    "name": "Diabetes Mellitus",
+    "type": "medical",
+    "abbreviation": "DX_DBM"
+  },
+  {
+    "name": "Dysmenorrhea",
+    "type": "medical",
+    "abbreviation": "DX_DYSM"
+  },
+  {
+    "name": "Dyspareunia",
+    "type": "medical",
+    "abbreviation": "DX_DYSP"
+  },
+  {
+    "name": "Early or Delayed Puberty",
+    "type": "medical",
+    "abbreviation": "DX_EDP"
+  },
+  {
+    "name": "Eczema",
+    "type": "medical",
+    "abbreviation": "DX_ECZ"
+  },
+  {
+    "name": "Electrolyte Abnormalities",
+    "type": "medical",
+    "abbreviation": "DX_ELAB"
+  },
+  {
+    "name": "Endometrial",
+    "type": "medical",
+    "abbreviation": "DX_ENDO"
+  },
+  {
+    "name": "Endometriosis",
+    "type": "medical",
+    "abbreviation": "DX_ENDO2"
+  },
+  {
+    "name": "Epilepsy and Seizure Disorders",
+    "type": "medical",
+    "abbreviation": "DX_ESD"
+  },
+  {
+    "name": "Food Allergies",
+    "type": "medical",
+    "abbreviation": "DX_FOOD"
+  },
+  {
+    "name": "Fractures",
+    "type": "medical",
+    "abbreviation": "DX_FRACT"
+  },
+  {
+    "name": "Fungal Infections",
+    "type": "medical",
+    "abbreviation": "DX_FUNGI"
+  },
+  {
+    "name": "Gallstones",
+    "type": "medical",
+    "abbreviation": "DX_GSTONES"
+  },
+  {
+    "name": "Gastroesophageal Reflux Disease",
+    "type": "medical",
+    "abbreviation": "DX_GERD"
+  },
+  {
+    "name": "Gastrointestinal Bleeding",
+    "type": "medical",
+    "abbreviation": "DX_GIBLD"
+  },
+  {
+    "name": "Generalized Anxiety Disorder",
+    "type": "medical",
+    "abbreviation": "DX_ANXD"
+  },
+  {
+    "name": "Genetic Syndromes",
+    "type": "medical",
+    "abbreviation": "DX_GENE"
+  },
+  {
+    "name": "Gestational Diabetes Mellitus",
+    "type": "medical",
+    "abbreviation": "DX_GDBTM"
+  },
+  {
+    "name": "Glomerulonephritis",
+    "type": "medical",
+    "abbreviation": "DX_GLON"
+  },
+  {
+    "name": "Gout",
+    "type": "medical",
+    "abbreviation": "DX_GO"
+  },
+  {
+    "name": "Growth Disorders",
+    "type": "medical",
+    "abbreviation": "DX_GROD"
+  },
+  {
+    "name": "Headaches/Migraines",
+    "type": "medical",
+    "abbreviation": "DX_HM"
+  },
+  {
+    "name": "Heart Failure",
+    "type": "medical",
+    "abbreviation": "DX_HRTF"
+  },
+  {
+    "name": "Hematologic conditions",
+    "type": "medical",
+    "abbreviation": "DX_HEMATC"
+  },
+  {
+    "name": "Hemophilia and Other Bleeding Disorders",
+    "type": "medical",
+    "abbreviation": "DX_HEMOB"
+  },
+  {
+    "name": "Hemorrhoids",
+    "type": "medical",
+    "abbreviation": "DX_HEM"
+  },
+  {
+    "name": "Henoch-Schnlein Purpura",
+    "type": "medical",
+    "abbreviation": "DX_HSP"
+  },
+  {
+    "name": "Hepatitis B and C",
+    "type": "medical",
+    "abbreviation": "DX_HEPBC"
+  },
+  {
+    "name": "Hernias",
+    "type": "medical",
+    "abbreviation": "DX_HERN"
+  },
+  {
+    "name": "Hot Flashes",
+    "type": "medical",
+    "abbreviation": "DX_HF2"
+  },
+  {
+    "name": "Human Immunodeficiency Virus",
+    "type": "medical",
+    "abbreviation": "DX_HIV"
+  },
+  {
+    "name": "Human Papillomavirus",
+    "type": "medical",
+    "abbreviation": "DX_HPV"
+  },
+  {
+    "name": "Hyperlipidemia",
+    "type": "medical",
+    "abbreviation": "DX_HL"
+  },
+  {
+    "name": "Hypertension",
+    "type": "medical",
+    "abbreviation": "DX_HTN"
+  },
+  {
+    "name": "Hypertensive Heart Disease",
+    "type": "medical",
+    "abbreviation": "DX_HHD"
+  },
+  {
+    "name": "Immunodeficiency disorders",
+    "type": "medical",
+    "abbreviation": "DX_IMMD"
+  },
+  {
+    "name": "Infections",
+    "type": "medical",
+    "abbreviation": "DX_INFECT"
+  },
+  {
+    "name": "Inflammatory Bowel Disease",
+    "type": "medical",
+    "abbreviation": "DX_IBD"
+  },
+  {
+    "name": "Inflammatory conditions",
+    "type": "medical",
+    "abbreviation": "DX_INFLAC"
+  },
+  {
+    "name": "Inherited Metabolic Disorders",
+    "type": "medical",
+    "abbreviation": "DX_IMD"
+  },
+  {
+    "name": "Interstitial Lung Disease",
+    "type": "medical",
+    "abbreviation": "DX_ILD"
+  },
+  {
+    "name": "Ischemic Heart Disease",
+    "type": "medical",
+    "abbreviation": "DX_IHD"
+  },
+  {
+    "name": "Juvenile Idiopathic Arthritis",
+    "type": "medical",
+    "abbreviation": "DX_JIA"
+  },
+  {
+    "name": "Kawasaki Disease",
+    "type": "medical",
+    "abbreviation": "DX_KWD"
+  },
+  {
+    "name": "Kidney Stones",
+    "type": "medical",
+    "abbreviation": "DX_KSTONES"
+  },
+  {
+    "name": "Leukemia",
+    "type": "medical",
+    "abbreviation": "DX_LEUK"
+  },
+  {
+    "name": "Ligament Injuries",
+    "type": "medical",
+    "abbreviation": "DX_LGI"
+  },
+  {
+    "name": "Lung Cancer",
+    "type": "medical",
+    "abbreviation": "DX_LNGC"
+  },
+  {
+    "name": "Lymphoma",
+    "type": "medical",
+    "abbreviation": "DX_LYMPH"
+  },
+  {
+    "name": "Major Depressive Disorder",
+    "type": "medical",
+    "abbreviation": "DX_MDD"
+  },
+  {
+    "name": "Malignant tumors",
+    "type": "medical",
+    "abbreviation": "DX_MLTMR"
+  },
+  {
+    "name": "Mastitis",
+    "type": "medical",
+    "abbreviation": "DX_MAST"
+  },
+  {
+    "name": "Menorrhagia",
+    "type": "medical",
+    "abbreviation": "DX_MENOR"
+  },
+  {
+    "name": "Menstrual disorders",
+    "type": "medical",
+    "abbreviation": "DX_MDIS"
+  },
+  {
+    "name": "Migraine and Other Headaches",
+    "type": "medical",
+    "abbreviation": "DX_MOH"
+  },
+  {
+    "name": "Musculoskeletal pain syndromes",
+    "type": "medical",
+    "abbreviation": "DX_MSPS"
+  },
+  {
+    "name": "Myofascial pain syndrome",
+    "type": "medical",
+    "abbreviation": "DX_MFPS"
+  },
+  {
+    "name": "Nasal Septum Deviation",
+    "type": "medical",
+    "abbreviation": "DX_NSD"
+  },
+  {
+    "name": "Neonatal Hyperbilirubinemia",
+    "type": "medical",
+    "abbreviation": "DX_NHBLR"
+  },
+  {
+    "name": "Neonatal Respiratory Distress Syndrome",
+    "type": "medical",
+    "abbreviation": "DX_NRDS"
+  },
+  {
+    "name": "Neonatal Sepsis",
+    "type": "medical",
+    "abbreviation": "DX_NSEPS"
+  },
+  {
+    "name": "Neoplastic diagnoses",
+    "type": "medical",
+    "abbreviation": "DX_NEOD"
+  },
+  {
+    "name": "Nephrotic Syndrome",
+    "type": "medical",
+    "abbreviation": "DX_NEPHS"
+  },
+  {
+    "name": "Nephrotic and Nephritic Syndromes",
+    "type": "medical",
+    "abbreviation": "DX_N&N"
+  },
+  {
+    "name": "Normal Pregnancy",
+    "type": "medical",
+    "abbreviation": "DX_NPREG"
+  },
+  {
+    "name": "Obesity",
+    "type": "medical",
+    "abbreviation": "DX_OBES"
+  },
+  {
+    "name": "Obstructive Sleep Apnea",
+    "type": "medical",
+    "abbreviation": "DX_OSA"
+  },
+  {
+    "name": "Osteoarthritis",
+    "type": "medical",
+    "abbreviation": "DX_OA"
+  },
+  {
+    "name": "Osteoporosis",
+    "type": "medical",
+    "abbreviation": "DX_OSTEO"
+  },
+  {
+    "name": "Otitis Media",
+    "type": "medical",
+    "abbreviation": "DX_OM"
+  },
+  {
+    "name": "Ovarian Cancer",
+    "type": "medical",
+    "abbreviation": "DX_OVC"
+  },
+  {
+    "name": "Ovarian Cysts",
+    "type": "medical",
+    "abbreviation": "DX_OVCYS"
+  },
+  {
+    "name": "Pancreatitis",
+    "type": "medical",
+    "abbreviation": "DX_PANCR"
+  },
+  {
+    "name": "Parathyroid Adenoma",
+    "type": "medical",
+    "abbreviation": "DX_PA"
+  },
+  {
+    "name": "Pediatric Allergies",
+    "type": "medical",
+    "abbreviation": "DX_PALL"
+  },
+  {
+    "name": "Pediatric Arrhythmias",
+    "type": "medical",
+    "abbreviation": "DX_PARR"
+  },
+  {
+    "name": "Pediatric Chronic Kidney Disease",
+    "type": "medical",
+    "abbreviation": "DX_PCKD"
+  },
+  {
+    "name": "Pediatric HIV/AIDS",
+    "type": "medical",
+    "abbreviation": "DX_PHIV"
+  },
+  {
+    "name": "Pediatric Lupus",
+    "type": "medical",
+    "abbreviation": "DX_PLUP"
+  },
+  {
+    "name": "Pediatric Sepsis and Shock",
+    "type": "medical",
+    "abbreviation": "DX_PDSPS"
+  },
+  {
+    "name": "Pediatric Solid Tumors",
+    "type": "medical",
+    "abbreviation": "DX_PDST"
+  },
+  {
+    "name": "Pediatric Trauma",
+    "type": "medical",
+    "abbreviation": "DX_PTRAUMA"
+  },
+  {
+    "name": "Pelvic Inflammatory Disease",
+    "type": "medical",
+    "abbreviation": "DX_PLVID"
+  },
+  {
+    "name": "Pelvic Organ Prolapse",
+    "type": "medical",
+    "abbreviation": "DX_PLVOP"
+  },
+  {
+    "name": "Peptic Ulcer Disease",
+    "type": "medical",
+    "abbreviation": "DX_PEPUD"
+  },
+  {
+    "name": "Pituitary Disorders",
+    "type": "medical",
+    "abbreviation": "DX_PITD"
+  },
+  {
+    "name": "Placental disorders",
+    "type": "medical",
+    "abbreviation": "DX_PLACD"
+  },
+  {
+    "name": "Pneumonia",
+    "type": "medical",
+    "abbreviation": "DX_PNEU"
+  },
+  {
+    "name": "Polycystic Ovary Syndrome",
+    "type": "medical",
+    "abbreviation": "DX_PCOS"
+  },
+  {
+    "name": "Postoperative Pain Management",
+    "type": "medical",
+    "abbreviation": "DX_PPM"
+  },
+  {
+    "name": "Preeclampsia and Eclampsia",
+    "type": "medical",
+    "abbreviation": "DX_PECLM"
+  },
+  {
+    "name": "Pregnancy and related issues",
+    "type": "medical",
+    "abbreviation": "DX_PREGRI"
+  },
+  {
+    "name": "Prematurity and Related Complications",
+    "type": "medical",
+    "abbreviation": "DX_PRERC"
+  },
+  {
+    "name": "Preterm Labor",
+    "type": "medical",
+    "abbreviation": "DX_PTL"
+  },
+  {
+    "name": "Primary Ciliary Dyskinesia",
+    "type": "medical",
+    "abbreviation": "DX_PCD"
+  },
+  {
+    "name": "Primary Immunodeficiencies",
+    "type": "medical",
+    "abbreviation": "DX_PIDEF"
+  },
+  {
+    "name": "Prolapsed Intervertebral Disc",
+    "type": "medical",
+    "abbreviation": "DX_PIDISC"
+  },
+  {
+    "name": "Psoriasis",
+    "type": "medical",
+    "abbreviation": "DX_PSOR"
+  },
+  {
+    "name": "Pulmonary Embolism",
+    "type": "medical",
+    "abbreviation": "DX_PEMB"
+  },
+  {
+    "name": "Pulmonary Hypertension",
+    "type": "medical",
+    "abbreviation": "DX_PHYP"
+  },
+  {
+    "name": "Pulmonary embolism",
+    "type": "medical",
+    "abbreviation": "DX_PEMB2"
+  },
+  {
+    "name": "Recurrent or Severe Infections",
+    "type": "medical",
+    "abbreviation": "DX_RSINF"
+  },
+  {
+    "name": "Rheumatic Heart Disease",
+    "type": "medical",
+    "abbreviation": "DX_RHD"
+  },
+  {
+    "name": "Rheumatoid Arthritis",
+    "type": "medical",
+    "abbreviation": "DX_RA"
+  },
+  {
+    "name": "Schizophrenia",
+    "type": "medical",
+    "abbreviation": "DX_SCHIZ"
+  },
+  {
+    "name": "Sepsis and Bacteremia",
+    "type": "medical",
+    "abbreviation": "DX_SEP"
+  },
+  {
+    "name": "Sexual Dysfunction",
+    "type": "medical",
+    "abbreviation": "DX_SDYS"
+  },
+  {
+    "name": "Sickle Cell Disease",
+    "type": "medical",
+    "abbreviation": "DX_SCD"
+  },
+  {
+    "name": "Solid Organ Cancers",
+    "type": "medical",
+    "abbreviation": "DX_SOC"
+  },
+  {
+    "name": "Spinal Cord Injuries",
+    "type": "medical",
+    "abbreviation": "DX_SCI"
+  },
+  {
+    "name": "Sprains and Strains",
+    "type": "medical",
+    "abbreviation": "DX_STRN"
+  },
+  {
+    "name": "Stress Fractures",
+    "type": "medical",
+    "abbreviation": "DX_SFRAC"
+  },
+  {
+    "name": "Stroke Rehabilitation",
+    "type": "medical",
+    "abbreviation": "DX_STREHAB"
+  },
+  {
+    "name": "Systemic Lupus Erythematosus",
+    "type": "medical",
+    "abbreviation": "DX_SLE"
+  },
+  {
+    "name": "Tendonitis",
+    "type": "medical",
+    "abbreviation": "DX_TEND"
+  },
+  {
+    "name": "Thromboembolic Disease",
+    "type": "medical",
+    "abbreviation": "DX_TED"
+  },
+  {
+    "name": "Thyroid Disorders",
+    "type": "medical",
+    "abbreviation": "DX_THYD"
+  },
+  {
+    "name": "Thyroid Disorders in Children",
+    "type": "medical",
+    "abbreviation": "DX_THYDC"
+  },
+  {
+    "name": "Thyroid Nodules or Goiter",
+    "type": "medical",
+    "abbreviation": "DX_THYNG"
+  },
+  {
+    "name": "Tonsillitis",
+    "type": "medical",
+    "abbreviation": "DX_TONS"
+  },
+  {
+    "name": "Trauma",
+    "type": "medical",
+    "abbreviation": "DX_TRAU"
+  },
+  {
+    "name": "Traumatic Brain Injuries",
+    "type": "medical",
+    "abbreviation": "DX_TBI"
+  },
+  {
+    "name": "Tuberculosis",
+    "type": "medical",
+    "abbreviation": "DX_TB"
+  },
+  {
+    "name": "Tuberculosis in Children",
+    "type": "medical",
+    "abbreviation": "DX_TBC"
+  },
+  {
+    "name": "Type 1 Diabetes Mellitus",
+    "type": "medical",
+    "abbreviation": "DX_T1DM"
+  },
+  {
+    "name": "Type 2 Diabetes Mellitus",
+    "type": "medical",
+    "abbreviation": "DX_T2DM"
+  },
+  {
+    "name": "Unplanned or Unwanted Pregnancy",
+    "type": "medical",
+    "abbreviation": "DX_UUP"
+  },
+  {
+    "name": "Upper Respiratory Infections",
+    "type": "medical",
+    "abbreviation": "DX_URI"
+  },
+  {
+    "name": "Urinary Incontinence",
+    "type": "medical",
+    "abbreviation": "DX_UI"
+  },
+  {
+    "name": "Urinary Tract Infections",
+    "type": "medical",
+    "abbreviation": "DX_UTI"
+  },
+  {
+    "name": "Uterine Fibroids",
+    "type": "medical",
+    "abbreviation": "DX_UF"
+  },
+  {
+    "name": "Vaccination and immunization updates",
+    "type": "medical",
+    "abbreviation": "DX_VACC"
+  },
+  {
+    "name": "Vaginal Atrophy",
+    "type": "medical",
+    "abbreviation": "DX_VAAT"
+  },
+  {
+    "name": "Valvular Heart Disease",
+    "type": "medical",
+    "abbreviation": "DX_VHD"
+  },
+  {
+    "name": "Varicose Veins",
+    "type": "medical",
+    "abbreviation": "DX_VVN"
+  },
+  {
+    "name": "Vesicoureteral Reflux and Urinary Tract Infections",
+    "type": "medical",
+    "abbreviation": "DX_VURI"
+  },
+  {
+    "name": "Vulvar and Vaginal Cancers",
+    "type": "medical",
+    "abbreviation": "DX_VVCN"
+  },
+  {
+    "name": "Actinic Cheilitis",
+    "type": "dental",
+    "abbreviation": "DX_ACTCHL"
+  },
+  {
+    "name": "Aggressive Periodontitis",
+    "type": "dental",
+    "abbreviation": "DX_AGGP"
+  },
+  {
+    "name": "Amelogenesis Imperfecta",
+    "type": "dental",
+    "abbreviation": "DX_AMIMP"
+  },
+  {
+    "name": "Ankyloglossia",
+    "type": "dental",
+    "abbreviation": "DX_ANKG"
+  },
+  {
+    "name": "Ankylosis",
+    "type": "dental",
+    "abbreviation": "DX_ANK"
+  },
+  {
+    "name": "Apertognathia",
+    "type": "dental",
+    "abbreviation": "DX_APERA"
+  },
+  {
+    "name": "Aphthous Ulcers",
+    "type": "dental",
+    "abbreviation": "DX_AULC"
+  },
+  {
+    "name": "Apical Periodontitis",
+    "type": "dental",
+    "abbreviation": "DX_APERI"
+  },
+  {
+    "name": "Arthroscopy",
+    "type": "dental",
+    "abbreviation": "DX_RSCOP"
+  },
+  {
+    "name": "Asymmetry",
+    "type": "dental",
+    "abbreviation": "DX_ASYMM"
+  },
+  {
+    "name": "Benign Migratory Glossitis",
+    "type": "dental",
+    "abbreviation": "DX_BMGLS"
+  },
+  {
+    "name": "Bone Grafting",
+    "type": "dental",
+    "abbreviation": "DX_BNGF"
+  },
+  {
+    "name": "Bruxism",
+    "type": "dental",
+    "abbreviation": "DX_BRUX"
+  },
+  {
+    "name": "Burning Mouth Syndrome",
+    "type": "dental",
+    "abbreviation": "DX_BMS"
+  },
+  {
+    "name": "Calcific Metamorphosis",
+    "type": "dental",
+    "abbreviation": "DX_CLCMM"
+  },
+  {
+    "name": "Calcifying Epithelial Odontogenic Tumor",
+    "type": "dental",
+    "abbreviation": "DX_CEOT"
+  },
+  {
+    "name": "Central Giant Cell Granuloma",
+    "type": "dental",
+    "abbreviation": "DX_CGCG"
+  },
+  {
+    "name": "Chronic Periodontitis",
+    "type": "dental",
+    "abbreviation": "DX_CHPR"
+  },
+  {
+    "name": "Chronic Periradicular Periodontitis",
+    "type": "dental",
+    "abbreviation": "DX_CPPR"
+  },
+  {
+    "name": "Cleft Lip and/or Palate",
+    "type": "dental",
+    "abbreviation": "DX_CLP"
+  },
+  {
+    "name": "Cleft Lip and Palate Repair",
+    "type": "dental",
+    "abbreviation": "DX_CLPR"
+  },
+  {
+    "name": "Complex Tooth Extractions",
+    "type": "dental",
+    "abbreviation": "DX_CTOEX"
+  },
+  {
+    "name": "Concussion and Subluxation",
+    "type": "dental",
+    "abbreviation": "DX_CNSB"
+  },
+  {
+    "name": "Condensing Osteitis",
+    "type": "dental",
+    "abbreviation": "DX_CO"
+  },
+  {
+    "name": "Corrective Jaw Surgery",
+    "type": "dental",
+    "abbreviation": "DX_JAWS"
+  },
+  {
+    "name": "Cracked Tooth Syndrome",
+    "type": "dental",
+    "abbreviation": "DX_CRKT"
+  },
+  {
+    "name": "Crossbite",
+    "type": "dental",
+    "abbreviation": "DX_CXBT"
+  },
+  {
+    "name": "Crowding",
+    "type": "dental",
+    "abbreviation": "DX_CROWD"
+  },
+  {
+    "name": "Deep Bite",
+    "type": "dental",
+    "abbreviation": "DX_DPBT"
+  },
+  {
+    "name": "Dental Abscess",
+    "type": "dental",
+    "abbreviation": "DX_DNAB"
+  },
+  {
+    "name": "Dental Anxiety or Phobia",
+    "type": "dental",
+    "abbreviation": "DX_DNAP"
+  },
+  {
+    "name": "Dental Attrition, Abrasion, and Abfraction",
+    "type": "dental",
+    "abbreviation": "DX_DNAA"
+  },
+  {
+    "name": "Dental Barotrauma",
+    "type": "dental",
+    "abbreviation": "DX_DNBA"
+  },
+  {
+    "name": "Dental Caries",
+    "type": "dental",
+    "abbreviation": "DX_CAR"
+  },
+  {
+    "name": "Dental Crowding or Spacing Issues",
+    "type": "dental",
+    "abbreviation": "DX_SPACE"
+  },
+  {
+    "name": "Dental Emergencies",
+    "type": "dental",
+    "abbreviation": "DX_DNEM"
+  },
+  {
+    "name": "Dental Implants",
+    "type": "dental",
+    "abbreviation": "DX_DNTI"
+  },
+  {
+    "name": "Dental Plaque and Calculus",
+    "type": "dental",
+    "abbreviation": "DX_DNTQ"
+  },
+  {
+    "name": "Dental Trauma",
+    "type": "dental",
+    "abbreviation": "DX_DNTT"
+  },
+  {
+    "name": "Dentigerous Cyst",
+    "type": "dental",
+    "abbreviation": "DX_DENC"
+  },
+  {
+    "name": "Dentin Hypersensitivity",
+    "type": "dental",
+    "abbreviation": "DX_DNTH"
+  },
+  {
+    "name": "Dentoalveolar Ankylosis",
+    "type": "dental",
+    "abbreviation": "DX_DAANK"
+  },
+  {
+    "name": "Dentoalveolar Surgery",
+    "type": "dental",
+    "abbreviation": "DX_DNAS"
+  },
+  {
+    "name": "Denture-related Problems",
+    "type": "dental",
+    "abbreviation": "DX_DNRP"
+  },
+  {
+    "name": "Developmental Dental Anomalies",
+    "type": "dental",
+    "abbreviation": "DX_DDA"
+  },
+  {
+    "name": "Diastema",
+    "type": "dental",
+    "abbreviation": "DX_DIAS"
+  },
+  {
+    "name": "Distraction Osteogenesis",
+    "type": "dental",
+    "abbreviation": "DX_DOO"
+  },
+  {
+    "name": "Early Childhood Caries",
+    "type": "dental",
+    "abbreviation": "DX_ECHCA"
+  },
+  {
+    "name": "Ectopic Eruption",
+    "type": "dental",
+    "abbreviation": "DX_ECTR"
+  },
+  {
+    "name": "Endodontic-Periodontal Lesions",
+    "type": "dental",
+    "abbreviation": "DX_ENPDL"
+  },
+  {
+    "name": "Erythroplakia",
+    "type": "dental",
+    "abbreviation": "DX_ERYTH"
+  },
+  {
+    "name": "External Cervical Resorption",
+    "type": "dental",
+    "abbreviation": "DX_EXCVR"
+  },
+  {
+    "name": "External Root Resorption",
+    "type": "dental",
+    "abbreviation": "DX_EROR"
+  },
+  {
+    "name": "Extra Teeth",
+    "type": "dental",
+    "abbreviation": "DX_ETOO"
+  },
+  {
+    "name": "Facial Cosmetic Surgery",
+    "type": "dental",
+    "abbreviation": "DX_FCSX"
+  },
+  {
+    "name": "Facial Infections",
+    "type": "dental",
+    "abbreviation": "DX_FCIN"
+  },
+  {
+    "name": "Facial Trauma",
+    "type": "dental",
+    "abbreviation": "DX_FCTR"
+  },
+  {
+    "name": "Fibroma",
+    "type": "dental",
+    "abbreviation": "DX_FIBR"
+  },
+  {
+    "name": "Fluorosis",
+    "type": "dental",
+    "abbreviation": "DX_FLUOR"
+  },
+  {
+    "name": "Fractured Tooth Root Repair",
+    "type": "dental",
+    "abbreviation": "DX_FTRR"
+  },
+  {
+    "name": "Furcation Involvement",
+    "type": "dental",
+    "abbreviation": "DX_FURC"
+  },
+  {
+    "name": "Gingival Enlargement",
+    "type": "dental",
+    "abbreviation": "DX_GNGE"
+  },
+  {
+    "name": "Gingival Enlargement with Mouth Breathing",
+    "type": "dental",
+    "abbreviation": "DX_GEMB"
+  },
+  {
+    "name": "Gingival Hyperplasia",
+    "type": "dental",
+    "abbreviation": "DX_GNGH"
+  },
+  {
+    "name": "Gingival Recession",
+    "type": "dental",
+    "abbreviation": "DX_GNGR"
+  },
+  {
+    "name": "Gingival and Periodontal Cysts",
+    "type": "dental",
+    "abbreviation": "DX_GPC"
+  },
+  {
+    "name": "Gingivitis",
+    "type": "dental",
+    "abbreviation": "DX_GING"
+  },
+  {
+    "name": "Glandular Odontogenic Cyst",
+    "type": "dental",
+    "abbreviation": "DX_GOC"
+  },
+  {
+    "name": "Halitosis",
+    "type": "dental",
+    "abbreviation": "DX_HAL"
+  },
+  {
+    "name": "Hemifacial Microsomia",
+    "type": "dental",
+    "abbreviation": "DX_HFM"
+  },
+  {
+    "name": "Hypomineralization of Molars and Incisors",
+    "type": "dental",
+    "abbreviation": "DX_HMI"
+  },
+  {
+    "name": "Impacted Teeth",
+    "type": "dental",
+    "abbreviation": "DX_ITOO"
+  },
+  {
+    "name": "Impacted Wisdom Teeth",
+    "type": "dental",
+    "abbreviation": "DX_IWT"
+  },
+  {
+    "name": "Internal Root Resorption",
+    "type": "dental",
+    "abbreviation": "DX_IRR"
+  },
+  {
+    "name": "Jaw-Related Conditions",
+    "type": "dental",
+    "abbreviation": "DX_JRC"
+  },
+  {
+    "name": "Kaposi Sarcoma",
+    "type": "dental",
+    "abbreviation": "DX_KS"
+  },
+  {
+    "name": "Malocclusion",
+    "type": "dental",
+    "abbreviation": "DX_MLOC"
+  },
+  {
+    "name": "Mandibular Hypoplasia",
+    "type": "dental",
+    "abbreviation": "DX_MH"
+  },
+  {
+    "name": "Maxillary Hypoplasia",
+    "type": "dental",
+    "abbreviation": "DX_MAXH"
+  },
+  {
+    "name": "Maxillary or Mandibular Deficiency",
+    "type": "dental",
+    "abbreviation": "DX_MMDEF"
+  },
+  {
+    "name": "Maxillary or Mandibular Excess",
+    "type": "dental",
+    "abbreviation": "DX_MMEX"
+  },
+  {
+    "name": "Maxillofacial Bone Cysts and Tumors",
+    "type": "dental",
+    "abbreviation": "DX_MBCT"
+  },
+  {
+    "name": "Medication-Related Osteonecrosis of the Jaw",
+    "type": "dental",
+    "abbreviation": "DX_MRONJ"
+  },
+  {
+    "name": "Melanotic Macule",
+    "type": "dental",
+    "abbreviation": "DX_MELM"
+  },
+  {
+    "name": "Missing Teeth",
+    "type": "dental",
+    "abbreviation": "DX_MISTO"
+  },
+  {
+    "name": "Mucoceles",
+    "type": "dental",
+    "abbreviation": "DX_MUCC"
+  },
+  {
+    "name": "Mucogingival Deformities",
+    "type": "dental",
+    "abbreviation": "DX_MCGDF"
+  },
+  {
+    "name": "Mucosal Lesions",
+    "type": "dental",
+    "abbreviation": "DX_MUCL"
+  },
+  {
+    "name": "Narrow Palate",
+    "type": "dental",
+    "abbreviation": "DX_NPLT"
+  },
+  {
+    "name": "Necrotizing Periodontal Diseases",
+    "type": "dental",
+    "abbreviation": "DX_NCRPD"
+  },
+  {
+    "name": "Nerve Repositioning or Transposition",
+    "type": "dental",
+    "abbreviation": "DX_NRVT"
+  },
+  {
+    "name": "Nicotine Stomatitis",
+    "type": "dental",
+    "abbreviation": "DX_NICST"
+  },
+  {
+    "name": "Occlusal Trauma",
+    "type": "dental",
+    "abbreviation": "DX_OCCT"
+  },
+  {
+    "name": "Odontogenic Cysts and Tumors",
+    "type": "dental",
+    "abbreviation": "DX_ODCST"
+  },
+  {
+    "name": "Open Bite",
+    "type": "dental",
+    "abbreviation": "DX_OB"
+  },
+  {
+    "name": "Oral Cancer",
+    "type": "dental",
+    "abbreviation": "DX_OC"
+  },
+  {
+    "name": "Oral Candidiasis",
+    "type": "dental",
+    "abbreviation": "DX_ORCAN"
+  },
+  {
+    "name": "Oral Conditions related to Systemic Health",
+    "type": "dental",
+    "abbreviation": "DX_OCRSH"
+  },
+  {
+    "name": "Oral Habits",
+    "type": "dental",
+    "abbreviation": "DX_OHAB"
+  },
+  {
+    "name": "Oral Leukoplakia",
+    "type": "dental",
+    "abbreviation": "DX_OLEU"
+  },
+  {
+    "name": "Oral Lichen Planus",
+    "type": "dental",
+    "abbreviation": "DX_OLP"
+  },
+  {
+    "name": "Oral Pathologies",
+    "type": "dental",
+    "abbreviation": "DX_OP"
+  },
+  {
+    "name": "Oral Pathology",
+    "type": "dental",
+    "abbreviation": "DX_OPATH"
+  },
+  {
+    "name": "Oral Squamous Cell Carcinoma",
+    "type": "dental",
+    "abbreviation": "DX_OSCC"
+  },
+  {
+    "name": "Oral Ulcers",
+    "type": "dental",
+    "abbreviation": "DX_OU"
+  },
+  {
+    "name": "Oral care for Children with Special Health Care Needs",
+    "type": "dental",
+    "abbreviation": "DX_OCCSHCN"
+  },
+  {
+    "name": "Oroantral and Oro-nasal Fistulas",
+    "type": "dental",
+    "abbreviation": "DX_OOF"
+  },
+  {
+    "name": "Orofacial Pain Disorders",
+    "type": "dental",
+    "abbreviation": "DX_OFD"
+  },
+  {
+    "name": "Osteonecrosis of the Jaw",
+    "type": "dental",
+    "abbreviation": "DX_ONJ"
+  },
+  {
+    "name": "Overjet",
+    "type": "dental",
+    "abbreviation": "DX_OVJ"
+  },
+  {
+    "name": "Pemphigus Vulgaris and Bullous Pemphigoid",
+    "type": "dental",
+    "abbreviation": "DX_PVB"
+  },
+  {
+    "name": "Perforations",
+    "type": "dental",
+    "abbreviation": "DX_PERF"
+  },
+  {
+    "name": "Peri-implant Mucositis",
+    "type": "dental",
+    "abbreviation": "DX_PERIPIM"
+  },
+  {
+    "name": "Peri-implantitis",
+    "type": "dental",
+    "abbreviation": "DX_PERIPI"
+  },
+  {
+    "name": "Pericoronitis",
+    "type": "dental",
+    "abbreviation": "DX_PERIC"
+  },
+  {
+    "name": "Periodontal Abscess",
+    "type": "dental",
+    "abbreviation": "DX_PERIA"
+  },
+  {
+    "name": "Periodontal Disease related to Systemic Conditions",
+    "type": "dental",
+    "abbreviation": "DX_PERIS"
+  },
+  {
+    "name": "Periodontal Diseases",
+    "type": "dental",
+    "abbreviation": "DX_PERID"
+  },
+  {
+    "name": "Periodontal-endodontic Lesions",
+    "type": "dental",
+    "abbreviation": "DX_PEL"
+  },
+  {
+    "name": "Periodontitis",
+    "type": "dental",
+    "abbreviation": "DX_PERI"
+  },
+  {
+    "name": "Peripheral Ossifying Fibroma",
+    "type": "dental",
+    "abbreviation": "DX_POF"
+  },
+  {
+    "name": "Periradicular Abscess",
+    "type": "dental",
+    "abbreviation": "DX_PRA"
+  },
+  {
+    "name": "Previous Root Canal Failures",
+    "type": "dental",
+    "abbreviation": "DX_PRCF"
+  },
+  {
+    "name": "Proclination",
+    "type": "dental",
+    "abbreviation": "DX_PROC"
+  },
+  {
+    "name": "Pulp Polyp",
+    "type": "dental",
+    "abbreviation": "DX_PULP"
+  },
+  {
+    "name": "Pulpal Disease in Primary Teeth",
+    "type": "dental",
+    "abbreviation": "DX_PDPT"
+  },
+  {
+    "name": "Pulpal Necrosis",
+    "type": "dental",
+    "abbreviation": "DX_PULN"
+  },
+  {
+    "name": "Pulpitis",
+    "type": "dental",
+    "abbreviation": "DX_PULPI"
+  },
+  {
+    "name": "Pyogenic Granuloma",
+    "type": "dental",
+    "abbreviation": "DX_PYOG"
+  },
+  {
+    "name": "Radicular Cyst",
+    "type": "dental",
+    "abbreviation": "DX_RADC"
+  },
+  {
+    "name": "Ridge Augmentation",
+    "type": "dental",
+    "abbreviation": "DX_RAUG"
+  },
+  {
+    "name": "Root Surface Caries",
+    "type": "dental",
+    "abbreviation": "DX_RSC"
+  },
+  {
+    "name": "Salivary Gland Diseases",
+    "type": "dental",
+    "abbreviation": "DX_SGD"
+  },
+  {
+    "name": "Sinus Lift",
+    "type": "dental",
+    "abbreviation": "DX_SL"
+  },
+  {
+    "name": "Sjogren's Syndrome",
+    "type": "dental",
+    "abbreviation": "DX_SJS"
+  },
+  {
+    "name": "Snoring/Sleep Apnea",
+    "type": "dental",
+    "abbreviation": "DX_SLSA"
+  },
+  {
+    "name": "Teething Discomfort",
+    "type": "dental",
+    "abbreviation": "DX_TD"
+  },
+  {
+    "name": "Temporomandibular Joint",
+    "type": "dental",
+    "abbreviation": "DX_TMJ"
+  },
+  {
+    "name": "Temporomandibular Joint Disorders",
+    "type": "dental",
+    "abbreviation": "DX_TMJD"
+  },
+  {
+    "name": "Thumb or Finger Sucking Habit",
+    "type": "dental",
+    "abbreviation": "DX_TFSH"
+  },
+  {
+    "name": "Tongue Thrusting Habit",
+    "type": "dental",
+    "abbreviation": "DX_TTH"
+  },
+  {
+    "name": "Tooth Discoloration",
+    "type": "dental",
+    "abbreviation": "DX_TOOD"
+  },
+  {
+    "name": "Tooth Drifting or Tipping",
+    "type": "dental",
+    "abbreviation": "DX_TDOT"
+  },
+  {
+    "name": "Tooth Erosion",
+    "type": "dental",
+    "abbreviation": "DX_TOOR"
+  },
+  {
+    "name": "Tooth Eruption Issues",
+    "type": "dental",
+    "abbreviation": "DX_TEI"
+  },
+  {
+    "name": "Tooth Migration",
+    "type": "dental",
+    "abbreviation": "DX_TMIG"
+  },
+  {
+    "name": "Tooth Mobility",
+    "type": "dental",
+    "abbreviation": "DX_TMO"
+  },
+  {
+    "name": "Tooth Rotation",
+    "type": "dental",
+    "abbreviation": "DX_TROT"
+  },
+  {
+    "name": "Tooth Sensitivity",
+    "type": "dental",
+    "abbreviation": "DX_TOOSN"
+  },
+  {
+    "name": "Tooth Transposition",
+    "type": "dental",
+    "abbreviation": "DX_TTRANS"
+  },
+  {
+    "name": "Tooth Wear",
+    "type": "dental",
+    "abbreviation": "DX_TW"
+  },
+  {
+    "name": "Traumatic Dental Injuries",
+    "type": "dental",
+    "abbreviation": "DX_TDI"
+  },
+  {
+    "name": "Traumatic Occlusal Forces",
+    "type": "dental",
+    "abbreviation": "DX_TOF"
+  },
+  {
+    "name": "Vertical Root Fracture",
+    "type": "dental",
+    "abbreviation": "DX_VRF"
+  },
+  {
+    "name": "Xerostomia",
+    "type": "dental",
+    "abbreviation": "DX_XER"
+  }
+]

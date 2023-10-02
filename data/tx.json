@@ -1,402 +1,402 @@
 [
   {
     "name": "Amalgam Filling",
-    "abbreviation": "AF"
+    "abbreviation": "TX_AF"
   },
   {
     "name": "Appendectomy",
-    "abbreviation": "APPX"
+    "abbreviation": "TX_APPX"
   },
   {
     "name": "Arthroscopy",
-    "abbreviation": "ART-K"
+    "abbreviation": "TX_ART-K"
   },
   {
     "name": "Biopsy",
-    "abbreviation": "BX"
+    "abbreviation": "TX_BX"
   },
   {
     "name": "Bite Adjustment",
-    "abbreviation": "BA"
+    "abbreviation": "TX_BA"
   },
   {
     "name": "Blood Transfusion",
-    "abbreviation": "BT"
+    "abbreviation": "TX_BT"
   },
   {
     "name": "Bone Marrow Transplant",
-    "abbreviation": "BMT"
+    "abbreviation": "TX_BMT"
   },
   {
     "name": "Braces Installation",
-    "abbreviation": "Br-I"
+    "abbreviation": "TX_Br-I"
   },
   {
     "name": "Bridge Placement",
-    "abbreviation": "BP"
+    "abbreviation": "TX_BP"
   },
   {
     "name": "Cardiac Catheterization",
-    "abbreviation": "CATH"
+    "abbreviation": "TX_CATH"
   },
   {
     "name": "Cataract Surgery",
-    "abbreviation": "CTRC"
+    "abbreviation": "TX_CTRC"
   },
   {
     "name": "Cavity Filling",
-    "abbreviation": "CF"
+    "abbreviation": "TX_CF"
   },
   {
     "name": "Cesarean Section",
-    "abbreviation": "CSEC"
+    "abbreviation": "TX_CSEC"
   },
   {
     "name": "Chemotherapy",
-    "abbreviation": "CHEMO"
+    "abbreviation": "TX_CHEMO"
   },
   {
     "name": "Cholecystectomy",
-    "abbreviation": "CHLCY"
+    "abbreviation": "TX_CHLCY"
   },
   {
     "name": "Cleaning and Polishing",
-    "abbreviation": "C&P"
+    "abbreviation": "TX_C&P"
   },
   {
     "name": "Colonoscopy",
-    "abbreviation": "COLO"
+    "abbreviation": "TX_COLO"
   },
   {
     "name": "Coronary Artery Bypass Graft",
-    "abbreviation": "CABG"
+    "abbreviation": "TX_CABG"
   },
   {
     "name": "Deep Cleaning",
-    "abbreviation": "DC"
+    "abbreviation": "TX_DC"
   },
   {
     "name": "Dental Implants",
-    "abbreviation": "DI"
+    "abbreviation": "TX_DI"
   },
   {
     "name": "Denture Fitting",
-    "abbreviation": "DF"
+    "abbreviation": "TX_DF"
   },
   {
     "name": "Dialysis",
-    "abbreviation": "DIAL"
+    "abbreviation": "TX_DIAL"
   },
   {
     "name": "Electrocardiogram",
-    "abbreviation": "ECG"
+    "abbreviation": "TX_ECG"
   },
   {
     "name": "Electroencephalogram",
-    "abbreviation": "EEG"
+    "abbreviation": "TX_EEG"
   },
   {
     "name": "Endoscopy",
-    "abbreviation": "END"
+    "abbreviation": "TX_END"
   },
   {
     "name": "Extraction",
-    "abbreviation": "Ext"
+    "abbreviation": "TX_Ext"
   },
   {
     "name": "Fluoride Treatment",
-    "abbreviation": "FT"
+    "abbreviation": "TX_FT"
   },
   {
     "name": "Frenectomy",
-    "abbreviation": "FRNC"
+    "abbreviation": "TX_FRNC"
   },
   {
     "name": "Full Mouth Rehabilitation",
-    "abbreviation": "FMR"
+    "abbreviation": "TX_FMR"
   },
   {
     "name": "Gingival Flap Surgery",
-    "abbreviation": "GFS"
+    "abbreviation": "TX_GFS"
   },
   {
     "name": "Gingival Grafting",
-    "abbreviation": "GGraft"
+    "abbreviation": "TX_GGraft"
   },
   {
     "name": "Gingivectomy",
-    "abbreviation": "Gingiv"
+    "abbreviation": "TX_Gingiv"
   },
   {
     "name": "Gum Surgery",
-    "abbreviation": "GUMS"
+    "abbreviation": "TX_GUMS"
   },
   {
     "name": "Hip Replacement",
-    "abbreviation": "HIP"
+    "abbreviation": "TX_HIP"
   },
   {
     "name": "Hysterectomy",
-    "abbreviation": "HYST"
+    "abbreviation": "TX_HYST"
   },
   {
     "name": "Impacted Tooth Surgery",
-    "abbreviation": "ITS"
+    "abbreviation": "TX_ITS"
   },
   {
     "name": "Insulin Therapy",
-    "abbreviation": "INS"
+    "abbreviation": "TX_INS"
   },
   {
     "name": "Intravenous",
-    "abbreviation": "IVF"
+    "abbreviation": "TX_IVF"
   },
   {
     "name": "Invisalign Treatment",
-    "abbreviation": "INVL"
+    "abbreviation": "TX_INVL"
   },
   {
     "name": "Jaw Alignment Surgery",
-    "abbreviation": "JAS"
+    "abbreviation": "TX_JAS"
   },
   {
     "name": "Jaw Wiring",
-    "abbreviation": "JW"
+    "abbreviation": "TX_JW"
   },
   {
     "name": "Joint Replacement",
-    "abbreviation": "JOINT"
+    "abbreviation": "TX_JOINT"
   },
   {
     "name": "Kidney Transplant",
-    "abbreviation": "KT"
+    "abbreviation": "TX_KT"
   },
   {
     "name": "Laparoscopy",
-    "abbreviation": "LAP"
+    "abbreviation": "TX_LAP"
   },
   {
     "name": "Lasik Eye Surgery",
-    "abbreviation": "LSK"
+    "abbreviation": "TX_LSK"
   },
   {
     "name": "Liver Transplant",
-    "abbreviation": "LT"
+    "abbreviation": "TX_LT"
   },
   {
     "name": "Lumbar Puncture",
-    "abbreviation": "LP"
+    "abbreviation": "TX_LP"
   },
   {
     "name": "MRI Scan",
-    "abbreviation": "MRI"
+    "abbreviation": "TX_MRI"
   },
   {
     "name": "Mammography",
-    "abbreviation": "MAMM"
+    "abbreviation": "TX_MAMM"
   },
   {
     "name": "Mastectomy",
-    "abbreviation": "MAST"
+    "abbreviation": "TX_MAST"
   },
   {
     "name": "Maxillofacial Surgery",
-    "abbreviation": "MFS"
+    "abbreviation": "TX_MFS"
   },
   {
     "name": "Nebulization Therapy",
-    "abbreviation": "NEB"
+    "abbreviation": "TX_NEB"
   },
   {
     "name": "Night Guard Fitting",
-    "abbreviation": "NGF"
+    "abbreviation": "TX_NGF"
   },
   {
     "name": "Oral Cancer Examination",
-    "abbreviation": "OCE"
+    "abbreviation": "TX_OCE"
   },
   {
     "name": "Oral Prophylaxis",
-    "abbreviation": "OP"
+    "abbreviation": "TX_OP"
   },
   {
     "name": "Orthodontic Retainer Placement",
-    "abbreviation": "ORP"
+    "abbreviation": "TX_ORP"
   },
   {
     "name": "Overdenture Fitting",
-    "abbreviation": "ODF"
+    "abbreviation": "TX_ODF"
   },
   {
     "name": "Oxygen Therapy",
-    "abbreviation": "O2"
+    "abbreviation": "TX_O2"
   },
   {
     "name": "Pacemaker Insertion",
-    "abbreviation": "PM-I"
+    "abbreviation": "TX_PM-I"
   },
   {
     "name": "Pediatric Dental Checkup",
-    "abbreviation": "PDC"
+    "abbreviation": "TX_PDC"
   },
   {
     "name": "Pedodontic Sealants",
-    "abbreviation": "PS"
+    "abbreviation": "TX_PS"
   },
   {
     "name": "Physical Therapy",
-    "abbreviation": "PT"
+    "abbreviation": "TX_PT"
   },
   {
     "name": "Prostatectomy",
-    "abbreviation": "PROST"
+    "abbreviation": "TX_PROST"
   },
   {
     "name": "Pulmonary Function Test",
-    "abbreviation": "PFT"
+    "abbreviation": "TX_PFT"
   },
   {
     "name": "Pulpotomy",
-    "abbreviation": "Pulpot"
+    "abbreviation": "TX_Pulpot"
   },
   {
     "name": "Radiation Therapy",
-    "abbreviation": "RAD"
+    "abbreviation": "TX_RAD"
   },
   {
     "name": "Reline and Rebasing Dentures",
-    "abbreviation": "RRD"
+    "abbreviation": "TX_RRD"
   },
   {
     "name": "Restoration of Dental Implants",
-    "abbreviation": "RDI"
+    "abbreviation": "TX_RDI"
   },
   {
     "name": "Root Canal Therapy",
-    "abbreviation": "RCT"
+    "abbreviation": "TX_RCT"
   },
   {
     "name": "Scaling and Root Planing",
-    "abbreviation": "SRP"
+    "abbreviation": "TX_SRP"
   },
   {
     "name": "Sealant Application",
-    "abbreviation": "SA"
+    "abbreviation": "TX_SA"
   },
   {
     "name": "Sinus Augmentation",
-    "abbreviation": "SAug"
+    "abbreviation": "TX_SAug"
   },
   {
     "name": "Spinal Fusion",
-    "abbreviation": "FUSE"
+    "abbreviation": "TX_FUSE"
   },
   {
     "name": "Splenectomy",
-    "abbreviation": "SPLN"
+    "abbreviation": "TX_SPLN"
   },
   {
     "name": "Stent Placement",
-    "abbreviation": "STNT"
+    "abbreviation": "TX_STNT"
   },
   {
     "name": "Teeth Bleaching/Whitening",
-    "abbreviation": "TW"
+    "abbreviation": "TX_TW"
   },
   {
     "name": "Temporomandibular Joint Treatment",
-    "abbreviation": "TMJT"
+    "abbreviation": "TX_TMJT"
   },
   {
     "name": "Tonsillectomy",
-    "abbreviation": "TNSL"
+    "abbreviation": "TX_TNSL"
   },
   {
     "name": "Tooth Bonding",
-    "abbreviation": "TB"
+    "abbreviation": "TX_TB"
   },
   {
     "name": "Tooth Contouring and Reshaping",
-    "abbreviation": "TCR"
+    "abbreviation": "TX_TCR"
   },
   {
     "name": "Tooth Crown Placement",
-    "abbreviation": "TCP"
+    "abbreviation": "TX_TCP"
   },
   {
     "name": "Tooth Gem Placement",
-    "abbreviation": "TGP"
+    "abbreviation": "TX_TGP"
   },
   {
     "name": "Tooth Splinting",
-    "abbreviation": "TSpl"
+    "abbreviation": "TX_TSpl"
   },
   {
     "name": "Tooth Veneer Placement",
-    "abbreviation": "TVP"
+    "abbreviation": "TX_TVP"
   },
   {
     "name": "Tracheostomy",
-    "abbreviation": "TRCH"
+    "abbreviation": "TX_TRCH"
   },
   {
     "name": "Tubal Ligation",
-    "abbreviation": "TL"
+    "abbreviation": "TX_TL"
   },
   {
     "name": "Tympanoplasty",
-    "abbreviation": "TYMP"
+    "abbreviation": "TX_TYMP"
   },
   {
     "name": "Ultrasonic Cleaning",
-    "abbreviation": "UC"
+    "abbreviation": "TX_UC"
   },
   {
     "name": "Ultrasound Imaging",
-    "abbreviation": "USI"
+    "abbreviation": "TX_USI"
   },
   {
     "name": "Ultraviolet Light Curing",
-    "abbreviation": "UVLC"
+    "abbreviation": "TX_UVLC"
   },
   {
     "name": "Uterine Fibroid Removal",
-    "abbreviation": "UFR"
+    "abbreviation": "TX_UFR"
   },
   {
     "name": "Vaccine Administration",
-    "abbreviation": "VACC"
+    "abbreviation": "TX_VACC"
   },
   {
     "name": "Varicose Vein Treatment",
-    "abbreviation": "VVT"
+    "abbreviation": "TX_VVT"
   },
   {
     "name": "Vasectomy",
-    "abbreviation": "VAS"
+    "abbreviation": "TX_VAS"
   },
   {
     "name": "Ventilator Support",
-    "abbreviation": "VENT"
+    "abbreviation": "TX_VENT"
   },
   {
     "name": "Vital Pulp Therapy",
-    "abbreviation": "VPT"
+    "abbreviation": "TX_VPT"
   },
   {
     "name": "Wisdom Tooth Removal",
-    "abbreviation": "WTR"
+    "abbreviation": "TX_WTR"
   },
   {
     "name": "Wound Dressing",
-    "abbreviation": "WD"
+    "abbreviation": "TX_WD"
   },
   {
     "name": "X-rays",
-    "abbreviation": "XRAY"
+    "abbreviation": "TX_XRAY"
   },
   {
     "name": "Zirconia Crowns Placement",
-    "abbreviation": "ZCP"
+    "abbreviation": "TX_ZCP"
   }
 ]

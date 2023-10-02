@@ -1,38 +1,38 @@
 [
   {
     "name": "Blood Pressure",
-    "abbreviation": "BP"
+    "abbreviation": "VX_BP"
   },
   {
     "name": "Body Mass Index",
-    "abbreviation": "BMI"
+    "abbreviation": "VX_BMI"
   },
   {
     "name": "Capillary Blood Glucose",
-    "abbreviation": "CBG"
+    "abbreviation": "VX_CBG"
   },
   {
     "name": "End-tidal Carbon Dioxide",
-    "abbreviation": "EtCO2"
+    "abbreviation": "VX_ETCO2"
   },
   {
     "name": "Heart Rate",
-    "abbreviation": "HR"
+    "abbreviation": "VX_HR"
   },
   {
     "name": "Oxygen Saturation",
-    "abbreviation": "SpO2"
+    "abbreviation": "VX_SPO2"
   },
   {
     "name": "Pupil Response",
-    "abbreviation": "PR"
+    "abbreviation": "VX_PPLR"
   },
   {
     "name": "Respiratory Rate",
-    "abbreviation": "RR"
+    "abbreviation": "VX_RR"
   },
   {
     "name": "Temperature",
-    "abbreviation": "Temp"
+    "abbreviation": "VX_T"
   }
 ]

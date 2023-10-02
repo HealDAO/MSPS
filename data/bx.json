@@ -1,202 +1,206 @@
 [
   {
     "name": "Alanine Aminotransferase",
-    "abbreviation": "ALT"
+    "abbreviation": "BX_ALT"
   },
   {
     "name": "Albumin",
-    "abbreviation": "ALB"
+    "abbreviation": "BX_ALB"
   },
   {
     "name": "Alkaline Phosphatase",
-    "abbreviation": "ALP"
+    "abbreviation": "BX_ALP"
   },
   {
     "name": "Amylase",
-    "abbreviation": "AMY"
+    "abbreviation": "BX_AMY"
   },
   {
     "name": "Antinuclear Antibody",
-    "abbreviation": "ANA"
+    "abbreviation": "BX_ANA"
   },
   {
     "name": "Aspartate Aminotransferase",
-    "abbreviation": "AST"
+    "abbreviation": "BX_AST"
   },
   {
-    "name": "Bilirubin",
-    "abbreviation": "BILI"
+    "name": "Total Bilirubin",
+    "abbreviation": "BX_BILT"
+  },
+  {
+    "name": "Direct Bilirubin",
+    "abbreviation": "BX_BILD"
   },
   {
     "name": "Blood Urea Nitrogen",
-    "abbreviation": "BUN"
+    "abbreviation": "BX_BUN"
   },
   {
     "name": "C-reactive Protein",
-    "abbreviation": "CRP"
+    "abbreviation": "BX_CRP"
   },
   {
     "name": "Calcium",
-    "abbreviation": "CA"
+    "abbreviation": "BX_CA"
   },
   {
     "name": "Carbon Dioxide",
-    "abbreviation": "CO2"
+    "abbreviation": "BX_CO2"
   },
   {
     "name": "Chloride",
-    "abbreviation": "CL"
+    "abbreviation": "BX_CL"
   },
   {
     "name": "Cholesterol, Total",
-    "abbreviation": "CHOL"
+    "abbreviation": "BX_CHOL"
   },
   {
     "name": "Creatinine",
-    "abbreviation": "CR"
+    "abbreviation": "BX_CR"
   },
   {
     "name": "D-dimer",
-    "abbreviation": "DDIM"
+    "abbreviation": "BX_DDIM"
   },
   {
     "name": "Differential Blood Count",
-    "abbreviation": "DIFB"
+    "abbreviation": "BX_DIFB"
   },
   {
     "name": "Erythrocyte Sedimentation Rate",
-    "abbreviation": "ESR"
+    "abbreviation": "BX_ESR"
   },
   {
     "name": "Ferritin",
-    "abbreviation": "FERR"
+    "abbreviation": "BX_FERR"
   },
   {
     "name": "Fibrinogen",
-    "abbreviation": "FIB"
+    "abbreviation": "BX_FIB"
   },
   {
     "name": "Folate",
-    "abbreviation": "FOL"
+    "abbreviation": "BX_FOL"
   },
   {
     "name": "Gamma-glutamyl Transferase",
-    "abbreviation": "GGT"
+    "abbreviation": "BX_GGT"
   },
   {
     "name": "Glucose",
-    "abbreviation": "GLU"
+    "abbreviation": "BX_GLU"
   },
   {
     "name": "Hematocrit",
-    "abbreviation": "HCT"
+    "abbreviation": "BX_HCT"
   },
   {
     "name": "Hemoglobin",
-    "abbreviation": "HB"
+    "abbreviation": "BX_HB"
   },
   {
     "name": "Hemoglobin A1c",
-    "abbreviation": "HBA1C"
+    "abbreviation": "BX_HBA1C"
   },
   {
     "name": "High-density Lipoprotein Cholesterol",
-    "abbreviation": "HDL"
+    "abbreviation": "BX_HDL"
   },
   {
     "name": "Lactate Dehydrogenase",
-    "abbreviation": "LDH"
+    "abbreviation": "BX_LDH"
   },
   {
     "name": "Lactic Acid",
-    "abbreviation": "LAC"
+    "abbreviation": "BX_LAC"
   },
   {
     "name": "Lipase",
-    "abbreviation": "LIP"
+    "abbreviation": "BX_LIP"
   },
   {
     "name": "Low-density Lipoprotein Cholesterol",
-    "abbreviation": "LDL"
+    "abbreviation": "BX_LDL"
   },
   {
     "name": "Magnesium",
-    "abbreviation": "MG"
+    "abbreviation": "BX_MG"
   },
   {
     "name": "Mean Corpuscular Volume",
-    "abbreviation": "MCV"
+    "abbreviation": "BX_MCV"
   },
   {
     "name": "Partial Thromboplastin Time",
-    "abbreviation": "PTT"
+    "abbreviation": "BX_PTT"
   },
   {
     "name": "Phosphorus",
-    "abbreviation": "PHOS"
+    "abbreviation": "BX_PHOS"
   },
   {
     "name": "Platelet Count",
-    "abbreviation": "PLT"
+    "abbreviation": "BX_PLT"
   },
   {
     "name": "Potassium",
-    "abbreviation": "K"
+    "abbreviation": "BX_K"
   },
   {
     "name": "Prothrombin Time",
-    "abbreviation": "PT"
+    "abbreviation": "BX_PT"
   },
   {
     "name": "Red Blood Cell Count",
-    "abbreviation": "RBC"
+    "abbreviation": "BX_RBC"
   },
   {
     "name": "Rheumatoid Factor",
-    "abbreviation": "RF"
+    "abbreviation": "BX_RF"
   },
   {
     "name": "Sodium",
-    "abbreviation": "NA"
+    "abbreviation": "BX_NA"
   },
   {
     "name": "Thyroid Stimulating Hormone",
-    "abbreviation": "TSH"
+    "abbreviation": "BX_TSH"
   },
   {
     "name": "Thyroxine",
-    "abbreviation": "T4"
+    "abbreviation": "BX_T4"
   },
   {
     "name": "Total Iron Binding Capacity",
-    "abbreviation": "TIBC"
+    "abbreviation": "BX_TIBC"
   },
   {
     "name": "Transferrin",
-    "abbreviation": "TFRR"
+    "abbreviation": "BX_TFRR"
   },
   {
     "name": "Triglycerides",
-    "abbreviation": "TG"
+    "abbreviation": "BX_TG"
   },
   {
     "name": "Triiodothyronine",
-    "abbreviation": "T3"
+    "abbreviation": "BX_T3"
   },
   {
     "name": "Uric Acid",
-    "abbreviation": "UA"
+    "abbreviation": "BX_UA"
   },
   {
     "name": "Vitamin B12",
-    "abbreviation": "B12"
+    "abbreviation": "BX_B12"
   },
   {
     "name": "Vitamin D",
-    "abbreviation": "D3"
+    "abbreviation": "BX_D3"
   },
   {
     "name": "White Blood Cell Count",
-    "abbreviation": "WBC"
+    "abbreviation": "BX_WBC"
   }
 ]
